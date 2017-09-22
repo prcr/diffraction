@@ -1,0 +1,340 @@
+/*
+Theme Name: diffraction
+Theme URI: http://diffraction.pt/blog/
+Description: Third version of the diffraction theme.
+Version: 3
+Author: Paulo Ribeiro
+Author URI: http://diffraction.pt/blog/
+*/
+
+@import url('reset.css');
+
+/* General */
+body, html {
+	background: #101010;
+	color: #a0a0a0;
+	font-size: 11px;
+	font-family: Verdana, Arial, Sans-Serif;
+	text-align: center;
+	text-transform: lowercase;
+}
+
+#page {
+	margin: 25px auto 5px auto;
+	text-align: left;
+	width: 800px;
+}
+
+img {
+	border: none;
+}
+
+a, a:link, a:visited {
+	color: #dfdfdf;
+	text-decoration: none;	
+}
+
+a:active, a:hover {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+p {
+	line-height: 1.5em;
+}
+
+/* Header */
+#header {
+	margin-bottom: 80px;
+	height: 32px;
+}
+
+#header-left {
+	float: left;
+	width: 49%;
+}
+
+#header-right {
+	float: right;
+	width: 49%;
+	text-align: right;
+	vertical-align: text-bottom;
+}
+
+#nav a {
+	display: block;
+}
+
+#nav li {
+	float: right;
+	margin-left: 30px;
+}
+
+.nav-archives {
+	width: 53px;
+}
+
+.nav-about {
+	width: 41px;
+} 
+
+/* Content */
+#content {
+	width: 100%;
+}
+
+.post {
+	margin-bottom: 125px;
+}
+
+.last-post {
+	margin-bottom: 100px;
+}
+
+.posttitle {
+	font-size: 15px;
+	font-weight: normal;
+	margin-bottom: 15px;
+}
+
+.postmetadata {
+	font-family: Helvetica, Arial, Sans-Serif;
+	margin-top: 15px;
+}
+
+.feedlink {
+	background: url(images/icon-feed-comments.png) no-repeat left;
+	padding-left: 14px;
+}
+
+/* Posts */
+.entry h2 {
+	padding: 0px 0px 1em 10px;
+}
+
+.entry ul {
+	list-style: none;
+	padding: 0px 0px 40px 10px;
+}
+
+.entry li {
+	line-height: 1.5em;
+}
+
+.entry img {
+	margin-top: 7px;
+	margin-bottom: 7px;
+}
+
+.entry .alignleft {
+	float: left;
+}
+
+.entry .alignright {
+	float: right;
+}
+
+.entry .aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.entry .smallphoto {
+	margin-top: 30px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+.postmetadata {
+	clear: both;
+	text-align: right;
+}
+
+/* Navigation links */
+.navigation {
+	height: 1em;
+}
+
+.navigation .alignleft {
+	float: left;
+	text-align: left;
+}
+
+.navigation .alignright {
+	float: right;
+	text-align: right;
+}
+
+/* Archive pages */
+.pagetitle {
+	margin: 0px auto 55px auto;
+	text-align: center;
+	font-size: 15px;
+	font-weight: normal;
+}
+
+/* Single post pages */
+.single-post {
+	margin: 50px auto 100px auto;
+}
+
+.single-postmetadata {
+	border: 1px solid red;
+}
+
+/* Comments */
+.commentlist, #respond {
+	padding-top: 25px;
+	width: 400px;
+}
+
+.nocomments {
+	margin-bottom: 125px;
+}
+
+.comment {
+	padding-bottom: 35px;
+	margin-bottom: 45px;
+	border-bottom: 1px solid #171717;
+	border-top: 1px solid #101010; /* Needed to align gravatar and author in IE. */
+}
+
+.comment-left {
+	padding-top: 3px;
+	float: left;
+}
+
+.comment-right {
+	margin-left: 40px;
+}
+
+.comment-author {
+	font-size: 1.1em;
+	margin-bottom: 1em;
+}
+
+.comment-meta {
+	margin-bottom: 2em;
+}
+
+.comment p {
+	text-align: justify;
+	margin-bottom: 1em;
+	line-height: 1.3em;
+}
+
+#respond h3 {
+	font-size: 1.1em;
+	margin-bottom: 1em;
+}
+
+#respond #logged-in {
+	margin-bottom: 1em;
+}
+
+#respond input {
+	width: 50%;
+}
+
+#respond #submit {
+	width: 50%;
+}
+
+#respond textarea {
+	width: 100%;
+	overflow: auto;
+}
+
+#respond input, textarea {
+	background-color: #101010;
+	color: #dfdfdf;
+	font-size: 10px;
+	font-family: Verdana, Arial, Sans-Serif;
+	border: 1px solid #252525;
+	padding: 2px;
+	margin: auto 1em 1em auto;
+}
+
+/* Footer */
+#footer {
+	width: 800px;
+	margin: 50px 0px 50px 0px;
+	padding: 20px 0px 0px 0px;
+	font-size: 11px;
+	text-align: left;
+	position: relative;
+	border-top: 1px solid #252525;
+}
+
+#footer p {
+	padding: 3px 0px 0px 0px;
+	list-style-type: none;
+	margin: 0px;	
+}
+
+.footerleft {
+	float: left;
+	width: 266px;
+	margin: 0px;
+	padding: 0px;
+	display: inline;
+}
+	
+.footermiddle {
+	float: left;
+	width: 266px;
+	margin: 0px;
+	padding: 0px;
+	display: inline;
+	text-align: center;
+}
+	
+.footerright {
+	float: right;
+	width: 266px;
+	margin: 0px;
+	padding: 0px;
+	display: inline;
+	text-align: right;
+}
+
+#footer img {
+	margin-left: 3px;
+}
+
+/* Archives */
+
+.archives-entry h2 {
+	padding: 0px 0px 1em 10px;
+}
+
+.archives-list {
+	list-style: none;
+	padding: 0px 0px 40px 10px;
+}
+
+.archives-list .children {
+	list-style: none;
+	padding-left: 10px;
+	padding-bottom: 1em;
+}
+
+.archives-list li {
+	line-height: 1.5em;
+}
+
+.archives-list #s {
+	background-image: url(images/icon-search.png);
+	background-repeat: no-repeat;
+	background-position: right;
+	background-color: #101010;
+	color: #dfdfdf;
+	font-size: 10px;
+	font-family: Verdana, Arial, Sans-Serif;
+	border: 1px solid #252525;
+	padding: 2px 15px 2px 2px;
+	margin: auto 1em 1em auto;
+	width: 166px;
+	display: inline;
+}
