@@ -43,4 +43,6 @@ function diffraction3_comment($comment, $args, $depth) {
 		</div>
 <?php
         }
+
+add_theme_support('post-thumbnails');
 ?>
