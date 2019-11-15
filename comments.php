@@ -15,14 +15,9 @@
 	</ol>
 
  <?php else : // this is displayed if there are no comments so far ?>
-
 	<?php if ('open' == $post->comment_status) : ?>
-		<!-- If comments are open, but there are no comments. -->
-
-	 <?php else : // comments are closed ?>
-		<!-- If comments are closed. -->
+	<?php else : // comments are closed ?>
 		<p class="nocomments">comments are closed.</p>
-
 	<?php endif; ?>
 <?php endif; ?>
 
@@ -46,8 +41,8 @@
 <p><input type="text" name="author" id="author" value="<?php echo $comment_author; ?>" size="22" tabindex="2" <?php if ($req) echo "aria-required='true'"; ?> onfocus="this.style.backgroundColor='#181818';" onblur="this.style.backgroundColor='#101010';" />
 <label for="author"><small>name <?php if ($req) echo "(required)"; ?></small></label></p>
 
-<!--<p><input type="text" name="email" id="email" value="<?php echo $comment_author_email; ?>" size="22" tabindex="3" <?php if ($req) echo "aria-required='true'"; ?> onfocus="this.style.backgroundColor='#181818';" onblur="this.style.backgroundColor='#101010';" />
-<label for="email"><small>email (not published) <?php if ($req) echo "(required)"; ?></small></label></p>-->
+<p><input type="text" name="email" id="email" value="<?php echo $comment_author_email; ?>" size="22" tabindex="3" <?php if ($req) echo "aria-required='true'"; ?> onfocus="this.style.backgroundColor='#181818';" onblur="this.style.backgroundColor='#101010';" />
+<label for="email"><small>email (optional) <?php if ($req) echo "(required)"; ?></small></label></p>
 
 <p><input type="text" name="url" id="url" value="<?php echo $comment_author_url; ?>" size="22" tabindex="4" onfocus="this.style.backgroundColor='#181818';" onblur="this.style.backgroundColor='#101010';" />
 <label for="url"><small>website (optional)</small></label></p>

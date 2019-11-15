@@ -6,13 +6,6 @@ get_header(); ?>
 
 	<div id="content">
 
-    <!--<div class="navigation">
-			<div class="alignleft"></div>
-			<div class="alignright"></div>
-		</div>
-
-    <h2 class="pagetitle">archives</h2>-->
-
 		<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 
     <div class="post single-post">
@@ -38,6 +31,7 @@ get_header(); ?>
             <ul class="archives-list">
               <li><?php get_search_form(); ?></li>
             </ul>
+            <?php if (is_active_sidebar('widgets-1')): dynamic_sidebar('widgets-1'); endif; ?>
           </td>
         </tr>
         </table>

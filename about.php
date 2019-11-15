@@ -6,14 +6,7 @@ get_header(); ?>
 
 	<div id="content">
 
-    <!--<div class="navigation">
-			<div class="alignleft"></div>
-			<div class="alignright"></div>
-		</div>
-
-    <h2 class="pagetitle">about</h2>-->
-
-		<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+	<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 
     <div class="post single-post">
       <div class="entry">

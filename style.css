@@ -338,3 +338,34 @@ p {
 	width: 166px;
 	display: inline;
 }
+
+
+/* Email subscription */
+
+.archives-entry p {
+	line-height: 1.5em;
+	padding: 0px 0px 10px 10px;
+}
+
+.archives-entry #subscribe-field {
+        background-color: #101010;
+        color: #dfdfdf;
+        font-size: 10px;
+        font-family: Verdana, Arial, Sans-Serif;
+        border: 1px solid #252525;
+        padding: 2px 15px 2px 2px;
+        margin: auto 1em 1em auto;
+        width: 166px;
+        display: inline;
+	text-transform: lowercase;
+}
+
+.archives-entry #subscribe-submit input {
+        background-color: #101010;
+        color: #dfdfdf;
+        font-size: 10px;
+        font-family: Verdana, Arial, Sans-Serif;
+        border: 1px solid #252525;
+        padding: 2px;
+        margin: auto 1em 1em auto;
+}
