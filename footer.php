@@ -7,8 +7,8 @@
 
   <div class="footerright">
     <a href="<?php bloginfo('rss2_url'); ?>"><img src="<?php bloginfo('template_directory'); ?>/images/icon-feed.png"/></a>&nbsp;&nbsp;
-    <a href="http://twitter.com/paulo_ribeiro"><img src="<?php bloginfo('template_directory'); ?>/images/icon-twitter.png"/></a>&nbsp;&nbsp;
-    <a href="http://www.facebook.com/paulo.ribeiro"><img src="<?php bloginfo('template_directory'); ?>/images/icon-facebook.png"/></a>
+    <a href="https://masto.pt/@prcr"><img src="<?php bloginfo('template_directory'); ?>/images/icon-mastodon.png"/></a>&nbsp;&nbsp;
+    <a href="https://www.facebook.com/paulo.ribeiro"><img src="<?php bloginfo('template_directory'); ?>/images/icon-facebook.png"/></a>
 	</div>
 </div>
 
