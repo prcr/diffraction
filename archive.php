@@ -30,7 +30,7 @@
 				</div>
 				<p class="postmetadata">
 					<span title="<?php echo time_since(abs(strtotime($post->post_date_gmt . ' GMT'))) . ' ago'; ?>">
-            <?php the_time('y.F.d') ?>
+            <?php the_time('Y-m-d') ?>
           </span>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
 					<?php the_category(', ') ?>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
 					<?php comments_popup_link('no comments', '1 comment', '% comments', '', 'comments are closed'); ?>
