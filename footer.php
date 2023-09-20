@@ -15,8 +15,7 @@
 
 <?php wp_footer(); ?>
 
-
-<!-- <a href="https://diffraction.pt/misc/phpot/twoway">polemic</a> -->
+<!-- <a href="https://diffraction.pt/twoway.php">berserk-cassette</a> -->
 
 </body>
 </html>
