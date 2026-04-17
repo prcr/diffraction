@@ -21,6 +21,9 @@ AUTHOR_FEED_RSS = None
 THEME = attila.get_path()
 HOME_COLOR = '#222222'  # fallback header colour when no cover image is set
 
+# Plugins
+SEO_REPORT = False  # suppress seo_report.html generation
+
 # Social
 SOCIAL = (
     ('github', 'https://github.com/prcr'),
