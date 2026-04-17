@@ -11,11 +11,11 @@ TIMEZONE = 'Europe/Lisbon'
 DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
+FEED_ALL_ATOM = True
+CATEGORY_FEED_ATOM = False
+TRANSLATION_FEED_ATOM = False
+AUTHOR_FEED_ATOM = False
+AUTHOR_FEED_RSS = False
 
 # Theme
 THEME = attila.get_path()
