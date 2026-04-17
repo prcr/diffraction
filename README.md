@@ -18,3 +18,4 @@ uv sync
 |---|---|
 | Build | `uv run pelican content` |
 | Build, serve, and watch for changes | `uv run pelican --listen` |
+| Production build | `uv run pelican content -s publishconf.py` |
