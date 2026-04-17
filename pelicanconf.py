@@ -19,10 +19,10 @@ AUTHOR_FEED_RSS = None
 
 # Theme
 THEME = attila.get_path()
-HOME_COLOR = '#222222'  # fallback header colour when no cover image is set
+HOME_COLOR = '#222222'  # fallback header color when no cover image is set
 
 # Plugins
-SEO_REPORT = False  # suppress seo_report.html generation
+PLUGINS = []  # explicit list turns off auto-discovery
 
 # Social
 SOCIAL = (
