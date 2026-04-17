@@ -2,7 +2,7 @@ import attila
 
 AUTHOR = 'paulo ribeiro'
 SITENAME = 'd i f f r a c t i o n'
-SITEURL = ""
+SITEURL = "https://diffraction.pt/blog"
 
 PATH = "content"
 
