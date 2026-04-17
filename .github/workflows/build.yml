@@ -26,4 +26,4 @@ jobs:
         run: uv sync
 
       - name: Build site
-        run: uv run pelican content -s publishconf.py -o output -D
+        run: uv run pelican content -s publishconf.py -o output -v
