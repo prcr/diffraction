@@ -5,7 +5,7 @@ Category: images, portuguese
 Slug: insonia
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/04/insonia.jpg)
+![insonia](https://diffraction.pt/blog/images/photos/04/insonia.jpg)
 
 acordei a desejar  
 não ser eu  

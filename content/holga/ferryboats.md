@@ -5,4 +5,4 @@ Category: holga
 Slug: ferryboats
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/05/ferryboat\(s\).jpg)
+![ferryboat\(s\](https://diffraction.pt/blog/images/photos/05/ferryboat\(s\).jpg)

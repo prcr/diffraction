@@ -5,4 +5,4 @@ Category: images
 Slug: ticket-machine
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/04/ticket_machine.jpg)
+![ticket machine](https://diffraction.pt/blog/images/photos/04/ticket_machine.jpg)

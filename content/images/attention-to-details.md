@@ -5,4 +5,4 @@ Category: images
 Slug: attention-to-details
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/05/attention_to_details.jpg)
+![attention to details](https://diffraction.pt/blog/images/photos/05/attention_to_details.jpg)

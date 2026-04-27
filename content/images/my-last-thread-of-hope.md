@@ -5,4 +5,4 @@ Category: images
 Slug: my-last-thread-of-hope
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/04/my_last_thread_of_hope.jpg)
+![my last thread of hope](https://diffraction.pt/blog/images/photos/04/my_last_thread_of_hope.jpg)

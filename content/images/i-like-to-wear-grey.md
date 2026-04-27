@@ -5,4 +5,4 @@ Category: images
 Slug: i-like-to-wear-grey
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/05/i_like_to_wear_grey.jpg)
+![i like to wear grey](https://diffraction.pt/blog/images/photos/05/i_like_to_wear_grey.jpg)

@@ -5,4 +5,4 @@ Category: images
 Slug: learning-how-to-drive
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/04/learning_how_to_drive.jpg)
+![learning how to drive](https://diffraction.pt/blog/images/photos/04/learning_how_to_drive.jpg)

@@ -5,6 +5,6 @@ Category: english, images
 Slug: high-speed
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/05/high_speed.jpg)
+![high speed](https://diffraction.pt/blog/images/photos/05/high_speed.jpg)
 
 letting the pain slip off the rearview mirror

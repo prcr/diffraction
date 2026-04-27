@@ -5,4 +5,4 @@ Category: images
 Slug: today-it-rains
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/04/today_it_rains.jpg)
+![today it rains](https://diffraction.pt/blog/images/photos/04/today_it_rains.jpg)

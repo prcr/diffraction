@@ -5,6 +5,6 @@ Category: images
 Slug: mathematical-patterns
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/05/mathematical_patterns_i.jpg)
+![mathematical patterns i](https://diffraction.pt/blog/images/photos/05/mathematical_patterns_i.jpg)
 
-![](https://diffraction.pt/blog/images/photos/05/mathematical_patterns_ii.jpg)
+![mathematical patterns ii](https://diffraction.pt/blog/images/photos/05/mathematical_patterns_ii.jpg)

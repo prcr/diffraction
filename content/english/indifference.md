@@ -5,7 +5,7 @@ Category: english, images
 Slug: indifference
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/05/indifference.jpg)
+![indifference](https://diffraction.pt/blog/images/photos/05/indifference.jpg)
 
 d  i  f  f  u  s  e  
 dust we are  

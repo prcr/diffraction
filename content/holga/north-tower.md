@@ -5,4 +5,4 @@ Category: holga
 Slug: north-tower
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/05/north_tower.jpg)
+![north tower](https://diffraction.pt/blog/images/photos/05/north_tower.jpg)

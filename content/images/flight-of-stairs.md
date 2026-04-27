@@ -5,4 +5,4 @@ Category: images
 Slug: flight-of-stairs
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/04/flight_of_stairs.jpg)
+![flight of stairs](https://diffraction.pt/blog/images/photos/04/flight_of_stairs.jpg)

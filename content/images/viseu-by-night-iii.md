@@ -5,7 +5,7 @@ Category: images
 Slug: viseu-by-night-iii
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/05/viseu_by_night_\(iii\).jpg)
+![viseu by night \(iii\](https://diffraction.pt/blog/images/photos/05/viseu_by_night_\(iii\).jpg)
 
 *praça da república (rossio) - câmara municipal*  
    

@@ -5,6 +5,6 @@ Category: english, images
 Slug: sweet-honey-from-the-bees
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/04/sweet_honey_from_the_bees.jpg)
+![sweet honey from the bees](https://diffraction.pt/blog/images/photos/04/sweet_honey_from_the_bees.jpg)
 
 for a split second there was a line of sight between our retinae

@@ -5,6 +5,6 @@ Category: images, portuguese
 Slug: tudo-parecia-tao-perfeito
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/04/tudo_parecia_tao_perfeito.jpg)
+![tudo parecia tao perfeito](https://diffraction.pt/blog/images/photos/04/tudo_parecia_tao_perfeito.jpg)
 
 as nossas mãos que encaixavam uma na outra. os momentos em que ouvíamos o silêncio e era como se tudo disséssemos. ou o vento a desordenar o teu cabelo...

@@ -5,4 +5,4 @@ Category: images
 Slug: despondency
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/04/despondency.jpg)
+![despondency](https://diffraction.pt/blog/images/photos/04/despondency.jpg)

@@ -5,6 +5,6 @@ Category: english, images
 Slug: my-sister
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/04/my_sister.jpg)
+![my sister](https://diffraction.pt/blog/images/photos/04/my_sister.jpg)
 
 ...playing with my palm.

@@ -5,7 +5,7 @@ Category: english, images
 Slug: ignition
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/05/ignition.jpg)
+![ignition](https://diffraction.pt/blog/images/photos/05/ignition.jpg)
 
 nothing  
 can  

@@ -5,6 +5,6 @@ Category: english, images
 Slug: no-alarms-and-no-surprises
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/04/no_alarms_and_no_surprises.jpg)
+![no alarms and no surprises](https://diffraction.pt/blog/images/photos/04/no_alarms_and_no_surprises.jpg)
 
 ...please

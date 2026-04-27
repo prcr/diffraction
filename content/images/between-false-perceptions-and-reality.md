@@ -5,4 +5,4 @@ Category: images
 Slug: between-false-perceptions-and-reality
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/05/between_false_perceptions_and_reality.jpg)
+![between false perceptions and reality](https://diffraction.pt/blog/images/photos/05/between_false_perceptions_and_reality.jpg)

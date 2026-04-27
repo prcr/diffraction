@@ -5,4 +5,4 @@ Category: images
 Slug: patch-of-sky
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/04/patch_of_sky.jpg)
+![patch of sky](https://diffraction.pt/blog/images/photos/04/patch_of_sky.jpg)

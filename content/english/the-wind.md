@@ -9,4 +9,4 @@ Status: published
 "alone?"  
 "you can come. i'll sleep while you drive. i don't want to know where i am when i wake up."
 
-![](https://diffraction.pt/blog/images/photos/05/the_wind.jpg)
+![the wind](https://diffraction.pt/blog/images/photos/05/the_wind.jpg)

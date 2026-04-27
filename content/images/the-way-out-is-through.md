@@ -5,4 +5,4 @@ Category: images
 Slug: the-way-out-is-through
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/05/the_way_out_is_through.jpg)
+![the way out is through](https://diffraction.pt/blog/images/photos/05/the_way_out_is_through.jpg)

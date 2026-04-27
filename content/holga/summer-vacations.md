@@ -5,4 +5,4 @@ Category: holga
 Slug: summer-vacations
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/05/summer_vacations.jpg)
+![summer vacations](https://diffraction.pt/blog/images/photos/05/summer_vacations.jpg)

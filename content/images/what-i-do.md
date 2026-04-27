@@ -5,4 +5,4 @@ Category: images
 Slug: what-i-do
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/04/what_i_do.jpg)
+![what i do](https://diffraction.pt/blog/images/photos/04/what_i_do.jpg)

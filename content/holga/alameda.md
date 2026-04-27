@@ -5,4 +5,4 @@ Category: holga
 Slug: alameda
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/05/alameda.jpg)
+![alameda](https://diffraction.pt/blog/images/photos/05/alameda.jpg)

@@ -5,4 +5,4 @@ Category: images
 Slug: the-box
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/05/the_box.jpg)
+![the box](https://diffraction.pt/blog/images/photos/05/the_box.jpg)

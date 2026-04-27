@@ -5,6 +5,6 @@ Category: images
 Slug: viseu-by-night-i
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/05/viseu_by_night_\(i\).jpg)
+![viseu by night \(i\](https://diffraction.pt/blog/images/photos/05/viseu_by_night_\(i\).jpg)
 
 *rua do comércio*

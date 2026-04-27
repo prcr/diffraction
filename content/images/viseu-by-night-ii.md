@@ -5,7 +5,7 @@ Category: images
 Slug: viseu-by-night-ii
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/05/viseu_by_night_\(ii\).jpg)
+![viseu by night \(ii\](https://diffraction.pt/blog/images/photos/05/viseu_by_night_\(ii\).jpg)
 
 *porta do soar*  
    

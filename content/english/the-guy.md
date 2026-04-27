@@ -5,7 +5,7 @@ Category: english, images
 Slug: the-guy
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/04/the_guy.jpg)
+![the guy](https://diffraction.pt/blog/images/photos/04/the_guy.jpg)
 
 ...who really  
 really  

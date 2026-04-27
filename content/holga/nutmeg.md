@@ -5,4 +5,4 @@ Category: holga
 Slug: nutmeg
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/04/nutmeg.jpg)
+![nutmeg](https://diffraction.pt/blog/images/photos/04/nutmeg.jpg)

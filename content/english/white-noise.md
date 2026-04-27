@@ -5,6 +5,6 @@ Category: english, images
 Slug: white-noise
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/04/white_noise.jpg)
+![white noise](https://diffraction.pt/blog/images/photos/04/white_noise.jpg)
 
 a day without tv.

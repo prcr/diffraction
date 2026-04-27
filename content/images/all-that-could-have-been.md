@@ -5,4 +5,4 @@ Category: images
 Slug: all-that-could-have-been
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/04/all_that_could_have_been.jpg)
+![all that could have been](https://diffraction.pt/blog/images/photos/04/all_that_could_have_been.jpg)

@@ -5,4 +5,4 @@ Category: images
 Slug: upward-spiral
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/05/upward_spiral.jpg)
+![upward spiral](https://diffraction.pt/blog/images/photos/05/upward_spiral.jpg)

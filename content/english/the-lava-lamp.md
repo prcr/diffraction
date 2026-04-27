@@ -5,7 +5,7 @@ Category: english, images
 Slug: the-lava-lamp
 Status: published
 
-![](https://diffraction.pt/blog/images/photos/04/the_lava_lamp.jpg)
+![the lava lamp](https://diffraction.pt/blog/images/photos/04/the_lava_lamp.jpg)
 
 the quiet, familiar songs  
 twirl into a kaleidoscope of tranquility
