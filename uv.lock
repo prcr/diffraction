@@ -19,7 +19,7 @@ wheels = [
 [[package]]
 name = "attila"
 version = "2.0"
-source = { git = "https://github.com/arulrajnet/attila.git?rev=master#6a6484f422132380b61d2b8ef66e16938338f0ba" }
+source = { git = "https://github.com/arulrajnet/attila.git?rev=6a6484f422132380b61d2b8ef66e16938338f0ba#6a6484f422132380b61d2b8ef66e16938338f0ba" }
 dependencies = [
     { name = "pelican" },
     { name = "pelican-image-process" },
@@ -65,7 +65,7 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "attila", git = "https://github.com/arulrajnet/attila.git?rev=master" },
+    { name = "attila", git = "https://github.com/arulrajnet/attila.git?rev=6a6484f422132380b61d2b8ef66e16938338f0ba" },
     { name = "pelican", extras = ["markdown"], specifier = ">=4.11" },
 ]
 

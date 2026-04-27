@@ -1,6 +1,9 @@
 {
   "permissions": {
     "allow": [
+      "Bash(awk *)",
+      "Bash(cat *)",
+      "Bash(grep *)",
       "Bash(uv sync)",
       "Bash(uv run pelican *)"
     ]

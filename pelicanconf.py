@@ -31,4 +31,16 @@ SOCIAL = (
 
 DEFAULT_PAGINATION = False
 
+CATEGORIES_URL = 'categories.html'
+CATEGORIES_SAVE_AS = 'categories.html'
+TAGS_URL = 'tags.html'
+TAGS_SAVE_AS = 'tags.html'
+AUTHORS_URL = 'authors.html'
+AUTHORS_SAVE_AS = 'authors.html'
+
+ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
+ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
+PAGE_URL = '{slug}/'
+PAGE_SAVE_AS = '{slug}/index.html'
+
 RELATIVE_URLS = True
