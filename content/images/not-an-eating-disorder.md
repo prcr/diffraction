@@ -5,4 +5,4 @@ Category: images
 Slug: not-an-eating-disorder
 Status: published
 
-![not an eating disorder](/blog/images/photos/05/not_an_eating_disorder.jpg)
+![not an eating disorder](https://diffraction.pt/blog/images/photos/05/not_an_eating_disorder.jpg)

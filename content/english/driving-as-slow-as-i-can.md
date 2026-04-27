@@ -7,10 +7,10 @@ Status: published
 
 as if you were at the end of the freeway
 
-![driving as slow as i can](/blog/images/photos/05/driving_as_slow_as_i_can_i.jpg)
+![driving as slow as i can](https://diffraction.pt/blog/images/photos/05/driving_as_slow_as_i_can_i.jpg)
 
-![driving as slow as i can](/blog/images/photos/05/driving_as_slow_as_i_can_ii.jpg)
+![driving as slow as i can](https://diffraction.pt/blog/images/photos/05/driving_as_slow_as_i_can_ii.jpg)
 
-![driving as slow as i can](/blog/images/photos/05/driving_as_slow_as_i_can_iii.jpg)
+![driving as slow as i can](https://diffraction.pt/blog/images/photos/05/driving_as_slow_as_i_can_iii.jpg)
 
 as if the rain could cleanse all that shouldn't be.

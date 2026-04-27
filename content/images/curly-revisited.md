@@ -5,4 +5,4 @@ Category: images
 Slug: curly-revisited
 Status: published
 
-![curly revisited](/blog/images/photos/05/curly_revisited.jpg)
+![curly revisited](https://diffraction.pt/blog/images/photos/05/curly_revisited.jpg)

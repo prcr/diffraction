@@ -5,4 +5,4 @@ Category: images
 Slug: as-glaciers-thaw
 Status: published
 
-![as glaciers thaw](/blog/images/photos/13/as_glaciers_thaw.jpg)
+![as glaciers thaw](https://diffraction.pt/blog/images/photos/13/as_glaciers_thaw.jpg)

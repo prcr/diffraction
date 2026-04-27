@@ -7,7 +7,7 @@ Status: published
 
 <div data-align="center">
 
-![somewhere](/blog/images/photos/05/somewhere.jpg)
+![somewhere](https://diffraction.pt/blog/images/photos/05/somewhere.jpg)
 
 </div>
 

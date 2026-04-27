@@ -5,4 +5,4 @@ Category: images
 Slug: here-comes-nobody
 Status: published
 
-![here comes nobody](/blog/images/photos/05/here_comes_nobody.jpg)
+![here comes nobody](https://diffraction.pt/blog/images/photos/05/here_comes_nobody.jpg)

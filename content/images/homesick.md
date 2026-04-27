@@ -5,6 +5,6 @@ Category: images
 Slug: homesick
 Status: published
 
-![homesick](/blog/images/photos/09/homesick_i.jpg)
+![homesick](https://diffraction.pt/blog/images/photos/09/homesick_i.jpg)
 
-![homesick](/blog/images/photos/09/homesick_ii.jpg)
+![homesick](https://diffraction.pt/blog/images/photos/09/homesick_ii.jpg)

@@ -5,4 +5,4 @@ Category: images
 Slug: given-to-the-rising
 Status: published
 
-![given to the rising](/blog/images/photos/09/given_to_the_rising.jpg)
+![given to the rising](https://diffraction.pt/blog/images/photos/09/given_to_the_rising.jpg)

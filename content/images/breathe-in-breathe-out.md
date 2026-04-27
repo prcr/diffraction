@@ -5,4 +5,4 @@ Category: images
 Slug: breathe-in-breathe-out
 Status: published
 
-![breathe in, breathe out](/blog/images/photos/07/breathe_in_breathe_out.jpg)
+![breathe in, breathe out](https://diffraction.pt/blog/images/photos/07/breathe_in_breathe_out.jpg)

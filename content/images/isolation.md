@@ -5,4 +5,4 @@ Category: images
 Slug: isolation
 Status: published
 
-![isolation](/blog/images/photos/08/isolation.jpg)
+![isolation](https://diffraction.pt/blog/images/photos/08/isolation.jpg)

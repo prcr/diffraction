@@ -5,8 +5,8 @@ Category: camera phone
 Slug: desde-o-fim
 Status: published
 
-![desde o fim](/blog/images/photos/18/desde_o_fim_i.jpg)
+![desde o fim](https://diffraction.pt/blog/images/photos/18/desde_o_fim_i.jpg)
 
-![desde o fim](/blog/images/photos/18/desde_o_fim_ii.jpg)
+![desde o fim](https://diffraction.pt/blog/images/photos/18/desde_o_fim_ii.jpg)
 
-![desde o fim](/blog/images/photos/18/desde_o_fim_iii.jpg)
+![desde o fim](https://diffraction.pt/blog/images/photos/18/desde_o_fim_iii.jpg)

@@ -5,4 +5,4 @@ Category: images
 Slug: uncoil
 Status: published
 
-![uncoil](/blog/images/photos/09/uncoil.jpg)
+![uncoil](https://diffraction.pt/blog/images/photos/09/uncoil.jpg)

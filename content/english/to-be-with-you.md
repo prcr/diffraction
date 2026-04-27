@@ -7,6 +7,6 @@ Status: published
 
 is to forget all the rest.
 
-![to be with you](/blog/images/photos/05/to_be_with_you.jpg)
+![to be with you](https://diffraction.pt/blog/images/photos/05/to_be_with_you.jpg)
 
 floating through end of afternoon traffic jams.

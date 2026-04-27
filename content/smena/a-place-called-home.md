@@ -5,4 +5,4 @@ Category: smena
 Slug: a-place-called-home
 Status: published
 
-![a place called home](/blog/images/photos/06/a_place_called_home.jpg)
+![a place called home](https://diffraction.pt/blog/images/photos/06/a_place_called_home.jpg)

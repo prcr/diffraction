@@ -5,4 +5,4 @@ Category: images
 Slug: string-theory
 Status: published
 
-![string theory](/blog/images/photos/05/string_theory.jpg)
+![string theory](https://diffraction.pt/blog/images/photos/05/string_theory.jpg)

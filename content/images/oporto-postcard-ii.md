@@ -7,6 +7,6 @@ Status: published
 
 *for beatriz and rui.*
 
-![oporto postcard ii](/blog/images/photos/06/oporto_postcard_ii.jpg)
+![oporto postcard ii](https://diffraction.pt/blog/images/photos/06/oporto_postcard_ii.jpg)
 
 [+](/blog/2004/08/26/oporto-postcard/)

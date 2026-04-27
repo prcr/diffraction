@@ -5,7 +5,7 @@ Category: images
 Slug: viseu-by-night-iv
 Status: published
 
-![](/blog/images/photos/05/viseu_by_night_\(iv\).jpg)
+![](https://diffraction.pt/blog/images/photos/05/viseu_by_night_\(iv\).jpg)
 
 *avenida dr. antónio josé de almeida*  
    

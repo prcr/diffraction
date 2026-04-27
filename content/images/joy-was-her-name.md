@@ -5,4 +5,4 @@ Category: images
 Slug: joy-was-her-name
 Status: published
 
-![](/blog/images/photos/05/joy_was_her_name.jpg)
+![](https://diffraction.pt/blog/images/photos/05/joy_was_her_name.jpg)

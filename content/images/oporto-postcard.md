@@ -5,4 +5,4 @@ Category: images
 Slug: oporto-postcard
 Status: published
 
-![](/blog/images/photos/04/oporto_postcard.jpg)
+![](https://diffraction.pt/blog/images/photos/04/oporto_postcard.jpg)

@@ -11,4 +11,4 @@ audio track: *"ghost train"*, ellen allien
    
 **download**
 
-  - [mpeg1](/blog/images/videos/05/passenger.mpg) (8.4 mb)
+  - [mpeg1](https://diffraction.pt/blog/images/videos/05/passenger.mpg) (8.4 mb)

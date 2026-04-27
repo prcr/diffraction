@@ -5,4 +5,4 @@ Category: camera phone
 Slug: voltar-a-respirar
 Status: published
 
-![voltar a respirar](/blog/images/photos/18/voltar_a_respirar.jpg)
+![voltar a respirar](https://diffraction.pt/blog/images/photos/18/voltar_a_respirar.jpg)

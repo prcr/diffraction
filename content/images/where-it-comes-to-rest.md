@@ -5,6 +5,6 @@ Category: images
 Slug: where-it-comes-to-rest
 Status: published
 
-![where it comes to rest](/blog/images/photos/08/where_it_comes_to_rest_i.jpg)
+![where it comes to rest](https://diffraction.pt/blog/images/photos/08/where_it_comes_to_rest_i.jpg)
 
-![where it comes to rest](/blog/images/photos/08/where_it_comes_to_rest_ii.jpg)
+![where it comes to rest](https://diffraction.pt/blog/images/photos/08/where_it_comes_to_rest_ii.jpg)

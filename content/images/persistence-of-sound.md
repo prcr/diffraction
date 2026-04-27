@@ -5,4 +5,4 @@ Category: images
 Slug: persistence-of-sound
 Status: published
 
-![persistence of sound](/blog/images/photos/05/persistence_of_sound.jpg)
+![persistence of sound](https://diffraction.pt/blog/images/photos/05/persistence_of_sound.jpg)

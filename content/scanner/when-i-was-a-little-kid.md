@@ -7,4 +7,4 @@ Status: published
 
 so once when i was six i did.
 
-![when i was a little kid my mother told me not to stare into the sun,](/blog/images/photos/05/when_i_was_a_little_kid.jpg)
+![when i was a little kid my mother told me not to stare into the sun,](https://diffraction.pt/blog/images/photos/05/when_i_was_a_little_kid.jpg)

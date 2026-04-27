@@ -5,6 +5,6 @@ Category: images
 Slug: sidestreets
 Status: published
 
-![sidestreets](/blog/images/photos/10/sidestreets_i.jpg)
+![sidestreets](https://diffraction.pt/blog/images/photos/10/sidestreets_i.jpg)
 
-![sidestreets](/blog/images/photos/10/sidestreets_ii.jpg)
+![sidestreets](https://diffraction.pt/blog/images/photos/10/sidestreets_ii.jpg)

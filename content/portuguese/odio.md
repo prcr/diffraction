@@ -5,7 +5,7 @@ Category: portuguese, scanner
 Slug: odio
 Status: published
 
-![ódio](/blog/images/photos/05/odio.png)  
+![ódio](https://diffraction.pt/blog/images/photos/05/odio.png)  
    
    
 [+](/blog/2005/05/22/desejo/)

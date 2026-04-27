@@ -5,4 +5,4 @@ Category: images
 Slug: from-sinking
 Status: published
 
-![from sinking](/blog/images/photos/12/from_sinking.jpg)
+![from sinking](https://diffraction.pt/blog/images/photos/12/from_sinking.jpg)

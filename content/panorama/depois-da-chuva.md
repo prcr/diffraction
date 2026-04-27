@@ -5,6 +5,6 @@ Category: panorama
 Slug: depois-da-chuva
 Status: published
 
-[![depois da chuva](/blog/images/photos/06/depois_da_chuva.jpg)](/blog/images/photos/06/panoramas/depois_da_chuva.html)
+[![depois da chuva](https://diffraction.pt/blog/images/photos/06/depois_da_chuva.jpg)](https://diffraction.pt/blog/images/photos/06/panoramas/depois_da_chuva.html)
 
-[full view +](/blog/images/photos/06/panoramas/depois_da_chuva.html)
+[full view +](https://diffraction.pt/blog/images/photos/06/panoramas/depois_da_chuva.html)

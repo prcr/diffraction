@@ -5,9 +5,9 @@ Category: images
 Slug: clarao
 Status: published
 
-![clarão](/blog/images/photos/14/clarao_i.jpg)
+![clarão](https://diffraction.pt/blog/images/photos/14/clarao_i.jpg)
 
-![clarão](/blog/images/photos/14/clarao_ii.jpg)
+![clarão](https://diffraction.pt/blog/images/photos/14/clarao_ii.jpg)
 
 <div data-align="left">
 

@@ -5,4 +5,4 @@ Category: images
 Slug: breeze
 Status: published
 
-![breeze](/blog/images/photos/08/breeze.jpg)
+![breeze](https://diffraction.pt/blog/images/photos/08/breeze.jpg)

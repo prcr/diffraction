@@ -7,4 +7,4 @@ Status: published
 
 *para a marta.*
 
-![a vertigem dos carros roubados para irmos até à praia](/blog/images/photos/05/a_vertigem_dos_carros_roubados.jpg)
+![a vertigem dos carros roubados para irmos até à praia](https://diffraction.pt/blog/images/photos/05/a_vertigem_dos_carros_roubados.jpg)

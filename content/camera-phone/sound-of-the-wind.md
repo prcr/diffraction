@@ -5,4 +5,4 @@ Category: camera phone
 Slug: sound-of-the-wind
 Status: published
 
-![sound of the wind](/blog/images/photos/19/sound_of_the_wind.jpg)
+![sound of the wind](https://diffraction.pt/blog/images/photos/19/sound_of_the_wind.jpg)

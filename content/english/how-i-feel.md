@@ -5,4 +5,4 @@ Category: english, scanner
 Slug: how-i-feel
 Status: published
 
-![how i feel.](/blog/images/photos/05/how_i_feel.png)
+![how i feel.](https://diffraction.pt/blog/images/photos/05/how_i_feel.png)

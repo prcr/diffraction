@@ -5,7 +5,7 @@ Category: english, images
 Slug: stained
 Status: published
 
-![stained](/blog/images/photos/05/stained.jpg)
+![stained](https://diffraction.pt/blog/images/photos/05/stained.jpg)
 
 <div data-align="center">
 

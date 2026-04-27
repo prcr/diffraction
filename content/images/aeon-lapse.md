@@ -5,4 +5,4 @@ Category: images
 Slug: aeon-lapse
 Status: published
 
-![aeon lapse](/blog/images/photos/13/aeon_lapse.jpg)
+![aeon lapse](https://diffraction.pt/blog/images/photos/13/aeon_lapse.jpg)

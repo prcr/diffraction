@@ -5,6 +5,6 @@ Category: images
 Slug: jet-lag
 Status: published
 
-![jet lag](/blog/images/photos/08/jet_lag_i.jpg)
+![jet lag](https://diffraction.pt/blog/images/photos/08/jet_lag_i.jpg)
 
-![jet lag](/blog/images/photos/08/jet_lag_ii.jpg)
+![jet lag](https://diffraction.pt/blog/images/photos/08/jet_lag_ii.jpg)

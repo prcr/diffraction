@@ -5,8 +5,8 @@ Category: images
 Slug: dry-the-river
 Status: published
 
-![dry the river](/blog/images/photos/20/dry_the_river_i.jpg)
+![dry the river](https://diffraction.pt/blog/images/photos/20/dry_the_river_i.jpg)
 
-![dry the river](/blog/images/photos/20/dry_the_river_ii.jpg)
+![dry the river](https://diffraction.pt/blog/images/photos/20/dry_the_river_ii.jpg)
 
-![dry the river](/blog/images/photos/20/dry_the_river_iii.jpg)
+![dry the river](https://diffraction.pt/blog/images/photos/20/dry_the_river_iii.jpg)

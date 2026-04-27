@@ -5,8 +5,8 @@ Category: images
 Slug: distance-divided-by-time
 Status: published
 
-![distance divided by time](/blog/images/photos/09/distance_divided_by_time_i.jpg)
+![distance divided by time](https://diffraction.pt/blog/images/photos/09/distance_divided_by_time_i.jpg)
 
-![distance divided by time](/blog/images/photos/09/distance_divided_by_time_ii.jpg)
+![distance divided by time](https://diffraction.pt/blog/images/photos/09/distance_divided_by_time_ii.jpg)
 
-![distance divided by time](/blog/images/photos/09/distance_divided_by_time_iii.jpg)
+![distance divided by time](https://diffraction.pt/blog/images/photos/09/distance_divided_by_time_iii.jpg)

@@ -5,4 +5,4 @@ Category: images
 Slug: the-soundless-dawn-came-alive
 Status: published
 
-![the soundless dawn came alive](/blog/images/photos/07/the_soundless_dawn_came_alive.jpg)
+![the soundless dawn came alive](https://diffraction.pt/blog/images/photos/07/the_soundless_dawn_came_alive.jpg)

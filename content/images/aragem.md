@@ -5,4 +5,4 @@ Category: images
 Slug: aragem
 Status: published
 
-![aragem](/blog/images/photos/08/aragem.jpg)
+![aragem](https://diffraction.pt/blog/images/photos/08/aragem.jpg)

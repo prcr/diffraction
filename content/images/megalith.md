@@ -5,4 +5,4 @@ Category: images
 Slug: megalith
 Status: published
 
-![megalith](/blog/images/photos/11/megalith.jpg)
+![megalith](https://diffraction.pt/blog/images/photos/11/megalith.jpg)

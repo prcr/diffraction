@@ -5,6 +5,6 @@ Category: english, images
 Slug: saturday-afternoon
 Status: published
 
-![](/blog/images/photos/05/saturday_afternoon.jpg)
+![](https://diffraction.pt/blog/images/photos/05/saturday_afternoon.jpg)
 
 for a few moments i felt indestructible.

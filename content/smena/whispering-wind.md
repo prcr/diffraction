@@ -5,6 +5,6 @@ Category: smena
 Slug: whispering-wind
 Status: published
 
-![whispering wind](/blog/images/photos/07/whispering_wind_i.jpg)
+![whispering wind](https://diffraction.pt/blog/images/photos/07/whispering_wind_i.jpg)
 
-![whispering wind](/blog/images/photos/07/whispering_wind_ii.jpg)
+![whispering wind](https://diffraction.pt/blog/images/photos/07/whispering_wind_ii.jpg)

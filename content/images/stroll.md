@@ -5,4 +5,4 @@ Category: images
 Slug: stroll
 Status: published
 
-![stroll](/blog/images/photos/07/stroll.jpg)
+![stroll](https://diffraction.pt/blog/images/photos/07/stroll.jpg)

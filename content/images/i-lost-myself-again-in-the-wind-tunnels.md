@@ -5,4 +5,4 @@ Category: images
 Slug: i-lost-myself-again-in-the-wind-tunnels
 Status: published
 
-![i lost myself again in the wind tunnels](/blog/images/photos/05/i_lost_myself_again_in_the_wind_tunnels.jpg)
+![i lost myself again in the wind tunnels](https://diffraction.pt/blog/images/photos/05/i_lost_myself_again_in_the_wind_tunnels.jpg)

@@ -5,8 +5,8 @@ Category: images
 Slug: side-effects-of-antibiotics
 Status: published
 
-![](/blog/images/photos/04/side_effects_of_antibiotics_i.jpg)
+![](https://diffraction.pt/blog/images/photos/04/side_effects_of_antibiotics_i.jpg)
 
-![](/blog/images/photos/04/side_effects_of_antibiotics_ii.jpg)
+![](https://diffraction.pt/blog/images/photos/04/side_effects_of_antibiotics_ii.jpg)
 
-![](/blog/images/photos/04/side_effects_of_antibiotics_iii.jpg)
+![](https://diffraction.pt/blog/images/photos/04/side_effects_of_antibiotics_iii.jpg)

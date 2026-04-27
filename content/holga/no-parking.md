@@ -5,4 +5,4 @@ Category: holga
 Slug: no-parking
 Status: published
 
-![](/blog/images/photos/05/no_parking.jpg)
+![](https://diffraction.pt/blog/images/photos/05/no_parking.jpg)

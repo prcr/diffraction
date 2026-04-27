@@ -5,4 +5,4 @@ Category: smena
 Slug: be-there-tonight
 Status: published
 
-![be there tonight](/blog/images/photos/08/be_there_tonight.jpg)
+![be there tonight](https://diffraction.pt/blog/images/photos/08/be_there_tonight.jpg)

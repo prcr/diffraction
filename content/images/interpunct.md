@@ -5,4 +5,4 @@ Category: images
 Slug: interpunct
 Status: published
 
-![·](/blog/images/photos/12/interpunct.jpg)
+![·](https://diffraction.pt/blog/images/photos/12/interpunct.jpg)

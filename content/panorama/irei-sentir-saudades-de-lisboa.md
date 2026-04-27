@@ -7,6 +7,6 @@ Status: published
 
 sei-o.
 
-[![irei sentir saudades de lisboa.](/blog/images/photos/05/irei_sentir_saudades_de_lisboa.jpg)](/blog/images/photos/05/panoramas/irei_sentir_saudades_de_lisboa.html)
+[![irei sentir saudades de lisboa.](https://diffraction.pt/blog/images/photos/05/irei_sentir_saudades_de_lisboa.jpg)](https://diffraction.pt/blog/images/photos/05/panoramas/irei_sentir_saudades_de_lisboa.html)
 
-[full view +](/blog/images/photos/05/panoramas/irei_sentir_saudades_de_lisboa.html)
+[full view +](https://diffraction.pt/blog/images/photos/05/panoramas/irei_sentir_saudades_de_lisboa.html)

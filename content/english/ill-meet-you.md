@@ -5,6 +5,6 @@ Category: english, images
 Slug: ill-meet-you
 Status: published
 
-![i'll meet you](/blog/images/photos/06/ill_meet_you.jpg)
+![i'll meet you](https://diffraction.pt/blog/images/photos/06/ill_meet_you.jpg)
 
 ...there.

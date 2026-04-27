@@ -5,4 +5,4 @@ Category: images
 Slug: counting
 Status: published
 
-![counting](/blog/images/photos/06/counting.jpg)
+![counting](https://diffraction.pt/blog/images/photos/06/counting.jpg)

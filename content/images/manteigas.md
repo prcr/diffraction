@@ -5,4 +5,4 @@ Category: images
 Slug: manteigas
 Status: published
 
-![manteigas](/blog/images/photos/22/manteigas.jpg)
+![manteigas](https://diffraction.pt/blog/images/photos/22/manteigas.jpg)

@@ -5,6 +5,6 @@ Category: images
 Slug: digression
 Status: published
 
-![digression](/blog/images/photos/05/digression_i.jpg)
+![digression](https://diffraction.pt/blog/images/photos/05/digression_i.jpg)
 
-![digression](/blog/images/photos/05/digression_ii.jpg)
+![digression](https://diffraction.pt/blog/images/photos/05/digression_ii.jpg)

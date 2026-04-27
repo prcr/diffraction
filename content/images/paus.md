@@ -5,4 +5,4 @@ Category: images
 Slug: paus
 Status: published
 
-![paus](/blog/images/photos/13/paus.jpg)
+![paus](https://diffraction.pt/blog/images/photos/13/paus.jpg)

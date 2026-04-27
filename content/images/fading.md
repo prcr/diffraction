@@ -5,4 +5,4 @@ Category: images
 Slug: fading
 Status: published
 
-![](/blog/images/photos/04/fading.jpg)
+![](https://diffraction.pt/blog/images/photos/04/fading.jpg)

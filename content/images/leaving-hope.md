@@ -5,4 +5,4 @@ Category: images
 Slug: leaving-hope
 Status: published
 
-![leaving hope](/blog/images/photos/12/leaving_hope.jpg)
+![leaving hope](https://diffraction.pt/blog/images/photos/12/leaving_hope.jpg)

@@ -5,4 +5,4 @@ Category: images
 Slug: blinking-lights
 Status: published
 
-![blinking lights in the cityscape diverting my mind 18.75 kilometers across the river](/blog/images/photos/05/blinking_lights.jpg)
+![blinking lights in the cityscape diverting my mind 18.75 kilometers across the river](https://diffraction.pt/blog/images/photos/05/blinking_lights.jpg)

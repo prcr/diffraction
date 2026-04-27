@@ -5,9 +5,9 @@ Category: images
 Slug: apos-jantar-ii
 Status: published
 
-![após jantar](/blog/images/photos/05/apos_jantar_ii_i.jpg)
+![após jantar](https://diffraction.pt/blog/images/photos/05/apos_jantar_ii_i.jpg)
 
-![após jantar](/blog/images/photos/05/apos_jantar_ii_ii.jpg)
+![após jantar](https://diffraction.pt/blog/images/photos/05/apos_jantar_ii_ii.jpg)
 
 *bairro alto.  
 à marta, ao nuno e ao ricardo.*

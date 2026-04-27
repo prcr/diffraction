@@ -5,4 +5,4 @@ Category: holga
 Slug: gone-out-to-sea
 Status: published
 
-![gone out to sea](/blog/images/photos/06/gone_out_to_sea.jpg)
+![gone out to sea](https://diffraction.pt/blog/images/photos/06/gone_out_to_sea.jpg)

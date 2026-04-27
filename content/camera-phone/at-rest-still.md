@@ -5,6 +5,6 @@ Category: camera phone
 Slug: at-rest-still
 Status: published
 
-![at rest, still](/blog/images/photos/13/at_rest_still_i.jpg)
+![at rest, still](https://diffraction.pt/blog/images/photos/13/at_rest_still_i.jpg)
 
-![at rest, still](/blog/images/photos/13/at_rest_still_ii.jpg)
+![at rest, still](https://diffraction.pt/blog/images/photos/13/at_rest_still_ii.jpg)

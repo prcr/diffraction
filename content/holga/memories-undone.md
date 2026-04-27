@@ -5,6 +5,6 @@ Category: holga
 Slug: memories-undone
 Status: published
 
-![memories undone](/blog/images/photos/07/memories_undone_i.jpg)
+![memories undone](https://diffraction.pt/blog/images/photos/07/memories_undone_i.jpg)
 
-![memories undone](/blog/images/photos/07/memories_undone_ii.jpg)
+![memories undone](https://diffraction.pt/blog/images/photos/07/memories_undone_ii.jpg)

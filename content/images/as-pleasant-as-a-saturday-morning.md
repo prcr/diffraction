@@ -5,4 +5,4 @@ Category: images
 Slug: as-pleasant-as-a-saturday-morning
 Status: published
 
-![as pleasant as a saturday morning](/blog/images/photos/06/as_pleasant_as_a_saturday_morning.jpg)
+![as pleasant as a saturday morning](https://diffraction.pt/blog/images/photos/06/as_pleasant_as_a_saturday_morning.jpg)

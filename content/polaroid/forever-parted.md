@@ -7,8 +7,8 @@ Status: published
 
 <div data-align="center">
 
-![forever parted](/blog/images/photos/05/forever_parted_i.jpg)
+![forever parted](https://diffraction.pt/blog/images/photos/05/forever_parted_i.jpg)
 
-![forever parted](/blog/images/photos/05/forever_parted_ii.jpg)
+![forever parted](https://diffraction.pt/blog/images/photos/05/forever_parted_ii.jpg)
 
 </div>

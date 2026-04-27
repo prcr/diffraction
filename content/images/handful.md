@@ -7,6 +7,6 @@ Status: published
 
 *for e.*
 
-![handful](/blog/images/photos/05/handful.jpg)
+![handful](https://diffraction.pt/blog/images/photos/05/handful.jpg)
 
 [+](/blog/2005/04/14/empty-handed/)

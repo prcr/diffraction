@@ -5,7 +5,7 @@ Category: images, portuguese
 Slug: desolacao
 Status: published
 
-![](/blog/images/photos/04/desolacao.jpg)
+![](https://diffraction.pt/blog/images/photos/04/desolacao.jpg)
 
 chove  
 chove sempre nas ruas desoladas  

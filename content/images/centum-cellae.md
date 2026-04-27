@@ -5,6 +5,6 @@ Category: images
 Slug: centum-cellae
 Status: published
 
-![centum cellæ](/blog/images/photos/10/centum_cellae_i.jpg)
+![centum cellæ](https://diffraction.pt/blog/images/photos/10/centum_cellae_i.jpg)
 
-![centum cellæ](/blog/images/photos/10/centum_cellae_ii.jpg)
+![centum cellæ](https://diffraction.pt/blog/images/photos/10/centum_cellae_ii.jpg)

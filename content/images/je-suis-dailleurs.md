@@ -5,4 +5,4 @@ Category: images
 Slug: je-suis-dailleurs
 Status: published
 
-![je suis d'ailleurs](/blog/images/photos/17/je_suis_dailleurs.jpg)
+![je suis d'ailleurs](https://diffraction.pt/blog/images/photos/17/je_suis_dailleurs.jpg)

@@ -7,6 +7,6 @@ Status: published
 
 <div data-align="center">
 
-![bobota](/blog/images/photos/05/bobota.jpg)
+![bobota](https://diffraction.pt/blog/images/photos/05/bobota.jpg)
 
 </div>

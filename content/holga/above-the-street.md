@@ -5,4 +5,4 @@ Category: holga
 Slug: above-the-street
 Status: published
 
-![](/blog/images/photos/04/above_the_street.jpg)
+![](https://diffraction.pt/blog/images/photos/04/above_the_street.jpg)

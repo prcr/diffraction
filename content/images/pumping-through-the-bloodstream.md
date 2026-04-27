@@ -5,6 +5,6 @@ Category: images
 Slug: pumping-through-the-bloodstream
 Status: published
 
-![pumping through the bloodstream](/blog/images/photos/05/pumping_through_the_bloodstream_i.jpg)
+![pumping through the bloodstream](https://diffraction.pt/blog/images/photos/05/pumping_through_the_bloodstream_i.jpg)
 
-![pumping through the bloodstream](/blog/images/photos/05/pumping_through_the_bloodstream_ii.jpg)
+![pumping through the bloodstream](https://diffraction.pt/blog/images/photos/05/pumping_through_the_bloodstream_ii.jpg)

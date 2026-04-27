@@ -5,8 +5,8 @@ Category: images
 Slug: estuario
 Status: published
 
-![estuário](/blog/images/photos/17/estuario_i.jpg)
+![estuário](https://diffraction.pt/blog/images/photos/17/estuario_i.jpg)
 
-![estuário](/blog/images/photos/17/estuario_ii.jpg)
+![estuário](https://diffraction.pt/blog/images/photos/17/estuario_ii.jpg)
 
-![estuário](/blog/images/photos/17/estuario_iii.jpg)
+![estuário](https://diffraction.pt/blog/images/photos/17/estuario_iii.jpg)

@@ -5,4 +5,4 @@ Category: images
 Slug: aqui
 Status: published
 
-![aqui](/blog/images/photos/07/aqui.jpg)
+![aqui](https://diffraction.pt/blog/images/photos/07/aqui.jpg)

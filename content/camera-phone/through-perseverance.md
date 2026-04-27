@@ -5,4 +5,4 @@ Category: camera phone
 Slug: through-perseverance
 Status: published
 
-![through perseverance](/blog/images/photos/17/through_perseverance.jpg)
+![through perseverance](https://diffraction.pt/blog/images/photos/17/through_perseverance.jpg)

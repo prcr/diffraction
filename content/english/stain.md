@@ -5,7 +5,7 @@ Category: english, images
 Slug: stain
 Status: published
 
-![stain](/blog/images/photos/05/stain.jpg)
+![stain](https://diffraction.pt/blog/images/photos/05/stain.jpg)
 
 |           |      |        |       |                   |
 | --------- | ---- | ------ | ----- | ----------------- |

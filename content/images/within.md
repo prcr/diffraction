@@ -5,8 +5,8 @@ Category: images
 Slug: within
 Status: published
 
-![within](/blog/images/photos/07/within_i.jpg)
+![within](https://diffraction.pt/blog/images/photos/07/within_i.jpg)
 
-![within](/blog/images/photos/07/within_ii.jpg)
+![within](https://diffraction.pt/blog/images/photos/07/within_ii.jpg)
 
-![within](/blog/images/photos/07/within_iii.jpg)
+![within](https://diffraction.pt/blog/images/photos/07/within_iii.jpg)

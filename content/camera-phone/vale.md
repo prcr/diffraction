@@ -5,6 +5,6 @@ Category: camera phone
 Slug: vale
 Status: published
 
-![vale](/blog/images/photos/21/vale_i.jpg)
+![vale](https://diffraction.pt/blog/images/photos/21/vale_i.jpg)
 
-![vale](/blog/images/photos/21/vale_ii.jpg)
+![vale](https://diffraction.pt/blog/images/photos/21/vale_ii.jpg)

@@ -5,6 +5,6 @@ Category: english, images
 Slug: reverberation
 Status: published
 
-![](/blog/images/photos/05/reverberation.jpg)
+![](https://diffraction.pt/blog/images/photos/05/reverberation.jpg)
 
 distant voices fade away as the world becomes yet a darker place

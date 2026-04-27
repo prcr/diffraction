@@ -5,4 +5,4 @@ Category: images
 Slug: after-the-thaw
 Status: published
 
-![after the thaw](/blog/images/photos/09/after_the_thaw.jpg)
+![after the thaw](https://diffraction.pt/blog/images/photos/09/after_the_thaw.jpg)

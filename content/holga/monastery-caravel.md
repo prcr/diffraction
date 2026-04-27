@@ -5,8 +5,8 @@ Category: holga
 Slug: monastery-caravel
 Status: published
 
-![monastery / caravel](/blog/images/photos/05/monastery_caravel_i.jpg)
+![monastery / caravel](https://diffraction.pt/blog/images/photos/05/monastery_caravel_i.jpg)
 
-![monastery / caravel](/blog/images/photos/05/monastery_caravel_ii.jpg)
+![monastery / caravel](https://diffraction.pt/blog/images/photos/05/monastery_caravel_ii.jpg)
 
-![monastery / caravel](/blog/images/photos/05/monastery_caravel_iii.jpg)
+![monastery / caravel](https://diffraction.pt/blog/images/photos/05/monastery_caravel_iii.jpg)

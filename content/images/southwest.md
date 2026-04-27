@@ -5,4 +5,4 @@ Category: images
 Slug: southwest
 Status: published
 
-![southwest](/blog/images/photos/09/southwest.jpg)
+![southwest](https://diffraction.pt/blog/images/photos/09/southwest.jpg)

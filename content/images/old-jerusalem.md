@@ -5,9 +5,9 @@ Category: images
 Slug: old-jerusalem
 Status: published
 
-![old jerusalem](/blog/images/photos/06/old_jerusalem_i.jpg)
+![old jerusalem](https://diffraction.pt/blog/images/photos/06/old_jerusalem_i.jpg)
 
-![old jerusalem](/blog/images/photos/06/old_jerusalem_ii.jpg)
+![old jerusalem](https://diffraction.pt/blog/images/photos/06/old_jerusalem_ii.jpg)
 
 <div data-align="center">
 

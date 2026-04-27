@@ -5,4 +5,4 @@ Category: images
 Slug: triad
 Status: published
 
-![triad](/blog/images/photos/05/triad.jpg)
+![triad](https://diffraction.pt/blog/images/photos/05/triad.jpg)

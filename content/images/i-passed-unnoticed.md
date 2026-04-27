@@ -5,6 +5,6 @@ Category: images
 Slug: i-passed-unnoticed
 Status: published
 
-![i passed unnoticed as the cutting cold brought tears to my eyes](/blog/images/photos/05/i_passed_unnoticed_i.jpg)
+![i passed unnoticed as the cutting cold brought tears to my eyes](https://diffraction.pt/blog/images/photos/05/i_passed_unnoticed_i.jpg)
 
-![i passed unnoticed as the cutting cold brought tears to my eyes](/blog/images/photos/05/i_passed_unnoticed_ii.jpg)
+![i passed unnoticed as the cutting cold brought tears to my eyes](https://diffraction.pt/blog/images/photos/05/i_passed_unnoticed_ii.jpg)

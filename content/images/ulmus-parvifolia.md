@@ -5,4 +5,4 @@ Category: images
 Slug: ulmus-parvifolia
 Status: published
 
-![ulmus parvifolia](/blog/images/photos/11/ulmus_parvifolia.jpg)
+![ulmus parvifolia](https://diffraction.pt/blog/images/photos/11/ulmus_parvifolia.jpg)

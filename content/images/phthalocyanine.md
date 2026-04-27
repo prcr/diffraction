@@ -5,4 +5,4 @@ Category: images
 Slug: phthalocyanine
 Status: published
 
-![phthalocyanine](/blog/images/photos/05/phthalocyanine.jpg)
+![phthalocyanine](https://diffraction.pt/blog/images/photos/05/phthalocyanine.jpg)

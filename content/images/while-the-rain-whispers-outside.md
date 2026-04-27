@@ -5,4 +5,4 @@ Category: images
 Slug: while-the-rain-whispers-outside
 Status: published
 
-![while the rain whispers outside](/blog/images/photos/10/while_the_rain_whispers_outside.jpg)
+![while the rain whispers outside](https://diffraction.pt/blog/images/photos/10/while_the_rain_whispers_outside.jpg)

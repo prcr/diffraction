@@ -5,8 +5,8 @@ Category: images
 Slug: dos-dias-perdidos
 Status: published
 
-![dos dias perdidos](/blog/images/photos/23/dos_dias_perdidos_i.jpg)
+![dos dias perdidos](https://diffraction.pt/blog/images/photos/23/dos_dias_perdidos_i.jpg)
 
-![dos dias perdidos](/blog/images/photos/23/dos_dias_perdidos_ii.jpg)
+![dos dias perdidos](https://diffraction.pt/blog/images/photos/23/dos_dias_perdidos_ii.jpg)
 
-![dos dias perdidos](/blog/images/photos/23/dos_dias_perdidos_iii.jpg)
+![dos dias perdidos](https://diffraction.pt/blog/images/photos/23/dos_dias_perdidos_iii.jpg)

@@ -5,6 +5,6 @@ Category: images
 Slug: briteiros
 Status: published
 
-![briteiros](/blog/images/photos/09/briteiros_i.jpg)
+![briteiros](https://diffraction.pt/blog/images/photos/09/briteiros_i.jpg)
 
-![briteiros](/blog/images/photos/09/briteiros_ii.jpg)
+![briteiros](https://diffraction.pt/blog/images/photos/09/briteiros_ii.jpg)

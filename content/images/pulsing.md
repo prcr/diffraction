@@ -5,6 +5,6 @@ Category: images
 Slug: pulsing
 Status: published
 
-![pulsing](/blog/images/photos/11/pulsing_i.jpg)
+![pulsing](https://diffraction.pt/blog/images/photos/11/pulsing_i.jpg)
 
-![pulsing](/blog/images/photos/11/pulsing_ii.jpg)
+![pulsing](https://diffraction.pt/blog/images/photos/11/pulsing_ii.jpg)

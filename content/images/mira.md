@@ -5,6 +5,6 @@ Category: images
 Slug: mira
 Status: published
 
-![mira](/blog/images/photos/09/mira_i.jpg)
+![mira](https://diffraction.pt/blog/images/photos/09/mira_i.jpg)
 
-![mira](/blog/images/photos/09/mira_ii.jpg)
+![mira](https://diffraction.pt/blog/images/photos/09/mira_ii.jpg)

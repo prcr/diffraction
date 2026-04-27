@@ -5,8 +5,8 @@ Category: images
 Slug: exhale
 Status: published
 
-![exhale](/blog/images/photos/17/exhale_i.jpg)
+![exhale](https://diffraction.pt/blog/images/photos/17/exhale_i.jpg)
 
-![exhale](/blog/images/photos/17/exhale_ii.jpg)
+![exhale](https://diffraction.pt/blog/images/photos/17/exhale_ii.jpg)
 
-![exhale](/blog/images/photos/17/exhale_iii.jpg)
+![exhale](https://diffraction.pt/blog/images/photos/17/exhale_iii.jpg)

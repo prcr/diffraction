@@ -5,4 +5,4 @@ Category: images
 Slug: waiting-for-twilight
 Status: published
 
-![](/blog/images/photos/05/waiting_for_twilight.jpg)
+![](https://diffraction.pt/blog/images/photos/05/waiting_for_twilight.jpg)

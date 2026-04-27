@@ -5,4 +5,4 @@ Category: images
 Slug: maria-vinagre
 Status: published
 
-![maria vinagre](/blog/images/photos/08/maria_vinagre.jpg)
+![maria vinagre](https://diffraction.pt/blog/images/photos/08/maria_vinagre.jpg)

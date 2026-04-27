@@ -5,4 +5,4 @@ Category: images
 Slug: o-rh
 Status: published
 
-![o rh-](/blog/images/photos/06/o_rh-.jpg)
+![o rh-](https://diffraction.pt/blog/images/photos/06/o_rh-.jpg)

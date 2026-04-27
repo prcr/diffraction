@@ -5,4 +5,4 @@ Category: camera phone
 Slug: a-little-lie
 Status: published
 
-![a little lie](/blog/images/photos/14/a_little_lie.jpg)
+![a little lie](https://diffraction.pt/blog/images/photos/14/a_little_lie.jpg)

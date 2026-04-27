@@ -5,7 +5,7 @@ Category: images
 Slug: ataraxia
 Status: published
 
-![ataraxia](/blog/images/photos/05/ataraxia.jpg)  
+![ataraxia](https://diffraction.pt/blog/images/photos/05/ataraxia.jpg)  
    
    
 [+](http://diffraction.com.pt/blog/2005/03/02/no-soul/)

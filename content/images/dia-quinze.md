@@ -8,7 +8,7 @@ Status: published
 quando o silêncio deixa ouvir o rumor das folhas e os ecos se esvanecem  
 resta a solidão
 
-![](/blog/images/photos/04/dia_quinze.jpg)
+![](https://diffraction.pt/blog/images/photos/04/dia_quinze.jpg)
 
 vivo num mundo que é meu e muitas vezes ao caminhar pelas ruas sinto-me ausente; como se fosse mero espectador de um filme
 

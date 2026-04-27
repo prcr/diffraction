@@ -5,4 +5,4 @@ Category: images
 Slug: thomas-was-alone
 Status: published
 
-![thomas was alone](/blog/images/photos/13/thomas_was_alone.jpg)
+![thomas was alone](https://diffraction.pt/blog/images/photos/13/thomas_was_alone.jpg)

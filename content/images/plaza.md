@@ -5,4 +5,4 @@ Category: images
 Slug: plaza
 Status: published
 
-![plaza](/blog/images/photos/05/plaza.jpg)
+![plaza](https://diffraction.pt/blog/images/photos/05/plaza.jpg)

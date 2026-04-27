@@ -5,4 +5,4 @@ Category: images
 Slug: ponto-de-abrigo
 Status: published
 
-![ponto de abrigo](/blog/images/photos/07/ponto_de_abrigo.jpg)
+![ponto de abrigo](https://diffraction.pt/blog/images/photos/07/ponto_de_abrigo.jpg)

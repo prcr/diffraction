@@ -5,6 +5,6 @@ Category: camera phone
 Slug: cutoff
 Status: published
 
-![cutoff](/blog/images/photos/15/cutoff_i.jpg)
+![cutoff](https://diffraction.pt/blog/images/photos/15/cutoff_i.jpg)
 
-![cutoff](/blog/images/photos/15/cutoff_ii.jpg)
+![cutoff](https://diffraction.pt/blog/images/photos/15/cutoff_ii.jpg)

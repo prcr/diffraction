@@ -7,6 +7,6 @@ Status: published
 
 *"you've got two things against you: one is desire the second is memory"*
 
-![kräne](/blog/images/photos/05/krane.jpg)
+![kräne](https://diffraction.pt/blog/images/photos/05/krane.jpg)
 
 i fill my head with noise leaving no space for thoughts of her

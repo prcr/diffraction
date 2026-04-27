@@ -5,4 +5,4 @@ Category: images
 Slug: overcome
 Status: published
 
-![overcome](/blog/images/photos/06/overcome.jpg)
+![overcome](https://diffraction.pt/blog/images/photos/06/overcome.jpg)

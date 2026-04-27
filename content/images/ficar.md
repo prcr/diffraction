@@ -17,9 +17,9 @@ eu juro, era este o meu abrigo
 se eu pudesse não saber  
 ...que há mais
 
-![ficar](/blog/images/photos/05/ficar_i.jpg)
+![ficar](https://diffraction.pt/blog/images/photos/05/ficar_i.jpg)
 
-![ficar](/blog/images/photos/05/ficar_ii.jpg)
+![ficar](https://diffraction.pt/blog/images/photos/05/ficar_ii.jpg)
 
 mas como pode a lua não querer o céu  
 como pode o mar não querer o chão  

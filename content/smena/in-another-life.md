@@ -5,4 +5,4 @@ Category: smena
 Slug: in-another-life
 Status: published
 
-![in another life](/blog/images/photos/07/in_another_life.jpg)
+![in another life](https://diffraction.pt/blog/images/photos/07/in_another_life.jpg)

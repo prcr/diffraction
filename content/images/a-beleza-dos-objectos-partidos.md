@@ -9,6 +9,6 @@ disse que haveria de lutar por mim
 
 mas
 
-![a beleza dos objectos partidos](/blog/images/photos/05/a_beleza_dos_objectos_partidos.jpg)
+![a beleza dos objectos partidos](https://diffraction.pt/blog/images/photos/05/a_beleza_dos_objectos_partidos.jpg)
 
 tudo se esvanece.

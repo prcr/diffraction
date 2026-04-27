@@ -5,12 +5,12 @@ Category: images
 Slug: underneath-my-soiled-feet
 Status: published
 
-![underneath my soiled feet](/blog/images/photos/15/underneath_my_soiled_feet_i.jpg)
+![underneath my soiled feet](https://diffraction.pt/blog/images/photos/15/underneath_my_soiled_feet_i.jpg)
 
-![underneath my soiled feet](/blog/images/photos/15/underneath_my_soiled_feet_ii.jpg)
+![underneath my soiled feet](https://diffraction.pt/blog/images/photos/15/underneath_my_soiled_feet_ii.jpg)
 
-![underneath my soiled feet](/blog/images/photos/15/underneath_my_soiled_feet_iii.jpg)
+![underneath my soiled feet](https://diffraction.pt/blog/images/photos/15/underneath_my_soiled_feet_iii.jpg)
 
-![underneath my soiled feet](/blog/images/photos/15/underneath_my_soiled_feet_iv.jpg)
+![underneath my soiled feet](https://diffraction.pt/blog/images/photos/15/underneath_my_soiled_feet_iv.jpg)
 
-![underneath my soiled feet](/blog/images/photos/15/underneath_my_soiled_feet_v.jpg)
+![underneath my soiled feet](https://diffraction.pt/blog/images/photos/15/underneath_my_soiled_feet_v.jpg)

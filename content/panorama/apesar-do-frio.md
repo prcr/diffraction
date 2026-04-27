@@ -5,6 +5,6 @@ Category: panorama
 Slug: apesar-do-frio
 Status: published
 
-[![apesar do frio](/blog/images/photos/05/apesar_do_frio.jpg)](/blog/images/photos/05/panoramas/apesar_do_frio.html)
+[![apesar do frio](https://diffraction.pt/blog/images/photos/05/apesar_do_frio.jpg)](https://diffraction.pt/blog/images/photos/05/panoramas/apesar_do_frio.html)
 
-[full view +](/blog/images/photos/05/panoramas/apesar_do_frio.html)
+[full view +](https://diffraction.pt/blog/images/photos/05/panoramas/apesar_do_frio.html)

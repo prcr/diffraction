@@ -5,10 +5,10 @@ Category: camera phone
 Slug: sos
 Status: published
 
-![sós](/blog/images/photos/13/sos_i.jpg)
+![sós](https://diffraction.pt/blog/images/photos/13/sos_i.jpg)
 
-![sós](/blog/images/photos/13/sos_ii.jpg)
+![sós](https://diffraction.pt/blog/images/photos/13/sos_ii.jpg)
 
-![sós](/blog/images/photos/13/sos_iii.jpg)
+![sós](https://diffraction.pt/blog/images/photos/13/sos_iii.jpg)
 
-![sós](/blog/images/photos/13/sos_iv.jpg)
+![sós](https://diffraction.pt/blog/images/photos/13/sos_iv.jpg)

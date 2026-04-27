@@ -5,6 +5,6 @@ Category: english, images
 Slug: untitled
 Status: published
 
-![](/blog/images/photos/05/untitled.jpg)
+![](https://diffraction.pt/blog/images/photos/05/untitled.jpg)
 
 longing to be a part...

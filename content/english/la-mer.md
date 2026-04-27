@@ -13,7 +13,7 @@ and the sea will come to kiss me
 for i am going  
 home
 
-![](/blog/images/photos/04/la_mer.jpg)
+![](https://diffraction.pt/blog/images/photos/04/la_mer.jpg)
 
 nothing can stop me now  
    

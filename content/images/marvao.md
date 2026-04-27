@@ -5,4 +5,4 @@ Category: images
 Slug: marvao
 Status: published
 
-![marvao](/blog/images/photos/13/marvao.jpg)
+![marvao](https://diffraction.pt/blog/images/photos/13/marvao.jpg)

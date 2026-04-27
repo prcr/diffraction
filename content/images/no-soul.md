@@ -5,4 +5,4 @@ Category: images
 Slug: no-soul
 Status: published
 
-![](/blog/images/photos/05/no_soul.jpg)
+![](https://diffraction.pt/blog/images/photos/05/no_soul.jpg)

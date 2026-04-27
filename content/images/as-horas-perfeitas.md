@@ -5,9 +5,9 @@ Category: images, portuguese
 Slug: as-horas-perfeitas
 Status: published
 
-![as horas perfeitas](/blog/images/photos/05/as_horas_perfeitas_i.jpg)
+![as horas perfeitas](https://diffraction.pt/blog/images/photos/05/as_horas_perfeitas_i.jpg)
 
-![as horas perfeitas](/blog/images/photos/05/as_horas_perfeitas_ii.jpg)
+![as horas perfeitas](https://diffraction.pt/blog/images/photos/05/as_horas_perfeitas_ii.jpg)
 
 os olhos fechados  
 são como um livro encapado.  

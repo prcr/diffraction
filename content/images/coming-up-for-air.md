@@ -5,4 +5,4 @@ Category: images
 Slug: coming-up-for-air
 Status: published
 
-![coming up for air](/blog/images/photos/09/coming_up_for_air.jpg)
+![coming up for air](https://diffraction.pt/blog/images/photos/09/coming_up_for_air.jpg)

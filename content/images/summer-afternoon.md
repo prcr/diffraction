@@ -5,4 +5,4 @@ Category: images
 Slug: summer-afternoon
 Status: published
 
-![](/blog/images/photos/04/summer_afternoon.jpg)
+![](https://diffraction.pt/blog/images/photos/04/summer_afternoon.jpg)

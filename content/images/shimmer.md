@@ -5,6 +5,6 @@ Category: images
 Slug: shimmer
 Status: published
 
-![shimmer](/blog/images/photos/07/shimmer_i.jpg)
+![shimmer](https://diffraction.pt/blog/images/photos/07/shimmer_i.jpg)
 
-![shimmer](/blog/images/photos/07/shimmer_ii.jpg)
+![shimmer](https://diffraction.pt/blog/images/photos/07/shimmer_ii.jpg)

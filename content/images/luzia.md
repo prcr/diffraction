@@ -5,7 +5,7 @@ Category: images
 Slug: luzia
 Status: published
 
-![luzia](/blog/images/photos/06/luzia.jpg)
+![luzia](https://diffraction.pt/blog/images/photos/06/luzia.jpg)
 
 *largo de sta. luzia, lisboa.  
 para a beatriz, o bruno e a marta.*

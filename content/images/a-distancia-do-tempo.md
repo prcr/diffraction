@@ -5,6 +5,6 @@ Category: images
 Slug: a-distancia-do-tempo
 Status: published
 
-![à distância do tempo](/blog/images/photos/07/a_distancia_do_tempo.jpg)
+![à distância do tempo](https://diffraction.pt/blog/images/photos/07/a_distancia_do_tempo.jpg)
 
 *para ti.*

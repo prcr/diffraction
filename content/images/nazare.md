@@ -5,4 +5,4 @@ Category: images
 Slug: nazare
 Status: published
 
-![nazaré](/blog/images/photos/07/nazare.jpg)
+![nazaré](https://diffraction.pt/blog/images/photos/07/nazare.jpg)

@@ -5,4 +5,4 @@ Category: portuguese, scanner
 Slug: desejo
 Status: published
 
-![desejo](/blog/images/photos/05/desejo.png)
+![desejo](https://diffraction.pt/blog/images/photos/05/desejo.png)

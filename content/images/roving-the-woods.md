@@ -5,4 +5,4 @@ Category: images
 Slug: roving-the-woods
 Status: published
 
-![roving the woods](/blog/images/photos/06/roving_the_woods.jpg)
+![roving the woods](https://diffraction.pt/blog/images/photos/06/roving_the_woods.jpg)

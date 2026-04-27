@@ -5,8 +5,8 @@ Category: images, panorama
 Slug: ponto-ii
 Status: published
 
-![.ponto ii](/blog/images/photos/05/ponto_ii_i.jpg)
+![.ponto ii](https://diffraction.pt/blog/images/photos/05/ponto_ii_i.jpg)
 
-[![.ponto ii](/blog/images/photos/05/ponto_ii_ii.jpg)](/blog/images/photos/05/panoramas/ponto_ii.html)
+[![.ponto ii](https://diffraction.pt/blog/images/photos/05/ponto_ii_ii.jpg)](https://diffraction.pt/blog/images/photos/05/panoramas/ponto_ii.html)
 
-[full view +](/blog/images/photos/05/panoramas/ponto_ii.html)
+[full view +](https://diffraction.pt/blog/images/photos/05/panoramas/ponto_ii.html)

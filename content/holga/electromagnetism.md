@@ -5,4 +5,4 @@ Category: holga
 Slug: electromagnetism
 Status: published
 
-![](/blog/images/photos/04/electromagnetism.jpg)
+![](https://diffraction.pt/blog/images/photos/04/electromagnetism.jpg)

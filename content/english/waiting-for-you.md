@@ -5,7 +5,7 @@ Category: english, images
 Slug: waiting-for-you
 Status: published
 
-![](/blog/images/photos/05/waiting_for_you.jpg)
+![](https://diffraction.pt/blog/images/photos/05/waiting_for_you.jpg)
 
 i am praying for the raging flood  
 i am waiting for you to come  

@@ -5,4 +5,4 @@ Category: portuguese, scanner
 Slug: hoje
 Status: published
 
-![hoje](/blog/images/photos/06/hoje.jpg)
+![hoje](https://diffraction.pt/blog/images/photos/06/hoje.jpg)

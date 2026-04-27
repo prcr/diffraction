@@ -5,7 +5,7 @@ Category: images
 Slug: billy-corgan
 Status: published
 
-![billy corgan](/blog/images/photos/05/billy_corgan.jpg)
+![billy corgan](https://diffraction.pt/blog/images/photos/05/billy_corgan.jpg)
 
 <div data-align="center">
 

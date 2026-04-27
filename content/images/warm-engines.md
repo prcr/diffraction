@@ -5,6 +5,6 @@ Category: images
 Slug: warm-engines
 Status: published
 
-![warm engines lullabying while i lay my head to rest](/blog/images/photos/05/warm_engines_i.jpg)
+![warm engines lullabying while i lay my head to rest](https://diffraction.pt/blog/images/photos/05/warm_engines_i.jpg)
 
-![warm engines lullabying while i lay my head to rest](/blog/images/photos/05/warm_engines_ii.jpg)
+![warm engines lullabying while i lay my head to rest](https://diffraction.pt/blog/images/photos/05/warm_engines_ii.jpg)

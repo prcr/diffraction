@@ -7,12 +7,12 @@ Status: published
 
 <div style="text-align: center">
 
-![till naught but temperance](/blog/images/photos/17/till_naught_but_temperance_i.jpg)
+![till naught but temperance](https://diffraction.pt/blog/images/photos/17/till_naught_but_temperance_i.jpg)
 
 </div>
 
 <div style="text-align: center">
 
-![till naught but temperance](/blog/images/photos/17/till_naught_but_temperance_ii.jpg)
+![till naught but temperance](https://diffraction.pt/blog/images/photos/17/till_naught_but_temperance_ii.jpg)
 
 </div>

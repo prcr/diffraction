@@ -5,4 +5,4 @@ Category: images
 Slug: diffraction
 Status: published
 
-![](/blog/images/photos/04/diffraction.jpg)
+![](https://diffraction.pt/blog/images/photos/04/diffraction.jpg)

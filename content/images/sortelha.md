@@ -5,4 +5,4 @@ Category: images
 Slug: sortelha
 Status: published
 
-![sortelha](/blog/images/photos/09/sortelha.jpg)
+![sortelha](https://diffraction.pt/blog/images/photos/09/sortelha.jpg)

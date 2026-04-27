@@ -5,8 +5,8 @@ Category: images
 Slug: arco-do-cego
 Status: published
 
-![arco do cego](/blog/images/photos/05/arco_do_cego_i.jpg)
+![arco do cego](https://diffraction.pt/blog/images/photos/05/arco_do_cego_i.jpg)
 
-![arco do cego](/blog/images/photos/05/arco_do_cego_ii.jpg)
+![arco do cego](https://diffraction.pt/blog/images/photos/05/arco_do_cego_ii.jpg)
 
-![arco do cego](/blog/images/photos/05/arco_do_cego_iii.jpg)
+![arco do cego](https://diffraction.pt/blog/images/photos/05/arco_do_cego_iii.jpg)

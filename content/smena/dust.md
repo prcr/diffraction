@@ -5,6 +5,6 @@ Category: smena
 Slug: dust
 Status: published
 
-![dust](/blog/images/photos/09/dust_i.jpg)
+![dust](https://diffraction.pt/blog/images/photos/09/dust_i.jpg)
 
-![dust](/blog/images/photos/09/dust_ii.jpg)
+![dust](https://diffraction.pt/blog/images/photos/09/dust_ii.jpg)

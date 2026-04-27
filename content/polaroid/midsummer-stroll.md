@@ -7,6 +7,6 @@ Status: published
 
 <div data-align="center">
 
-![midsummer stroll](/blog/images/photos/09/midsummer_stroll.jpg)
+![midsummer stroll](https://diffraction.pt/blog/images/photos/09/midsummer_stroll.jpg)
 
 </div>

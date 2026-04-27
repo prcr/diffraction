@@ -5,6 +5,6 @@ Category: holga
 Slug: coimbra
 Status: published
 
-[![coimbra.](/blog/images/photos/06/coimbra.jpg)](/blog/images/photos/06/panoramas/coimbra.html)
+[![coimbra.](https://diffraction.pt/blog/images/photos/06/coimbra.jpg)](https://diffraction.pt/blog/images/photos/06/panoramas/coimbra.html)
 
-[full view +](/blog/images/photos/06/panoramas/coimbra.html)
+[full view +](https://diffraction.pt/blog/images/photos/06/panoramas/coimbra.html)

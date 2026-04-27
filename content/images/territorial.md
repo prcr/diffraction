@@ -5,4 +5,4 @@ Category: images
 Slug: territorial
 Status: published
 
-![territorial](/blog/images/photos/14/territorial.jpg)
+![territorial](https://diffraction.pt/blog/images/photos/14/territorial.jpg)

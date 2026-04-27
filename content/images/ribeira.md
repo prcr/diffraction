@@ -5,4 +5,4 @@ Category: images
 Slug: ribeira
 Status: published
 
-![ribeira](/blog/images/photos/09/ribeira.jpg)
+![ribeira](https://diffraction.pt/blog/images/photos/09/ribeira.jpg)

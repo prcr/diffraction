@@ -5,9 +5,9 @@ Category: images, portuguese
 Slug: ponto
 Status: published
 
-![.ponto](/blog/images/photos/05/ponto_i.jpg)
+![.ponto](https://diffraction.pt/blog/images/photos/05/ponto_i.jpg)
 
-![.ponto](/blog/images/photos/05/ponto_ii.jpg)
+![.ponto](https://diffraction.pt/blog/images/photos/05/ponto_ii.jpg)
 
 <div data-align="center">
 
@@ -15,4 +15,4 @@ por mais luzes que acendam é sempre escuro
 
 </div>
 
-![.ponto](/blog/images/photos/05/ponto_iii.jpg)
+![.ponto](https://diffraction.pt/blog/images/photos/05/ponto_iii.jpg)

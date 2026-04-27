@@ -5,4 +5,4 @@ Category: images
 Slug: a-ramp
 Status: published
 
-![](/blog/images/photos/05/a_ramp.jpg)
+![](https://diffraction.pt/blog/images/photos/05/a_ramp.jpg)

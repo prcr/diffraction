@@ -10,7 +10,7 @@ se
 
 escondesse segredos nas mãos
 
-![escondo as mãos nos bolsos do casaco](/blog/images/photos/05/escondo_as_maos.jpg)
+![escondo as mãos nos bolsos do casaco](https://diffraction.pt/blog/images/photos/05/escondo_as_maos.jpg)
 
 mas  
 apenas

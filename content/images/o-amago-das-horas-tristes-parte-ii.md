@@ -5,4 +5,4 @@ Category: images
 Slug: o-amago-das-horas-tristes-parte-ii
 Status: published
 
-![o âmago das horas tristes, parte ii](/blog/images/photos/05/o_amago_das_horas_tristes_parte_ii.jpg)
+![o âmago das horas tristes, parte ii](https://diffraction.pt/blog/images/photos/05/o_amago_das_horas_tristes_parte_ii.jpg)

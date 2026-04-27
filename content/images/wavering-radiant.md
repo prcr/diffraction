@@ -5,4 +5,4 @@ Category: images
 Slug: wavering-radiant
 Status: published
 
-![wavering radiant](/blog/images/photos/18/wavering_radiant.jpg)
+![wavering radiant](https://diffraction.pt/blog/images/photos/18/wavering_radiant.jpg)

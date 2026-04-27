@@ -5,6 +5,6 @@ Category: images
 Slug: braganca
 Status: published
 
-![bragança](/blog/images/photos/07/braganca_i.jpg)
+![bragança](https://diffraction.pt/blog/images/photos/07/braganca_i.jpg)
 
-![bragança](/blog/images/photos/07/braganca_ii.jpg)
+![bragança](https://diffraction.pt/blog/images/photos/07/braganca_ii.jpg)

@@ -5,7 +5,7 @@ Category: images, portuguese
 Slug: vazio
 Status: published
 
-![vazio](/blog/images/photos/05/vazio.jpg)
+![vazio](https://diffraction.pt/blog/images/photos/05/vazio.jpg)
 
 como o antro da cela trancada  
 da minha mente  

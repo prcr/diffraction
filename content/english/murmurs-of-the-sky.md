@@ -5,6 +5,6 @@ Category: english, images
 Slug: murmurs-of-the-sky
 Status: published
 
-![](/blog/images/photos/04/murmurs_of_the_sky.jpg)
+![](https://diffraction.pt/blog/images/photos/04/murmurs_of_the_sky.jpg)
 
 the sound waves left nothing behind.

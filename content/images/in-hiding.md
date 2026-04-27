@@ -5,4 +5,4 @@ Category: images
 Slug: in-hiding
 Status: published
 
-![](/blog/images/photos/05/in_hiding.jpg)
+![](https://diffraction.pt/blog/images/photos/05/in_hiding.jpg)

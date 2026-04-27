@@ -5,6 +5,6 @@ Category: images
 Slug: embrace
 Status: published
 
-![embrace](/blog/images/photos/05/embrace_i.jpg)
+![embrace](https://diffraction.pt/blog/images/photos/05/embrace_i.jpg)
 
-![embrace](/blog/images/photos/05/embrace_ii.jpg)
+![embrace](https://diffraction.pt/blog/images/photos/05/embrace_ii.jpg)

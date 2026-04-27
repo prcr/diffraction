@@ -5,4 +5,4 @@ Category: smena
 Slug: from-afar
 Status: published
 
-![from afar](/blog/images/photos/08/from_afar.jpg)
+![from afar](https://diffraction.pt/blog/images/photos/08/from_afar.jpg)

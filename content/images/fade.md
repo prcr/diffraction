@@ -5,8 +5,8 @@ Category: images
 Slug: fade
 Status: published
 
-![...fade](/blog/images/photos/05/fade_i.jpg)
+![...fade](https://diffraction.pt/blog/images/photos/05/fade_i.jpg)
 
 out.
 
-![out.](/blog/images/photos/05/fade_ii.jpg)
+![out.](https://diffraction.pt/blog/images/photos/05/fade_ii.jpg)

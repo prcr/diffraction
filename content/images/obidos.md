@@ -5,6 +5,6 @@ Category: images
 Slug: obidos
 Status: published
 
-![óbidos](/blog/images/photos/07/obidos_i.jpg)
+![óbidos](https://diffraction.pt/blog/images/photos/07/obidos_i.jpg)
 
-![óbidos](/blog/images/photos/07/obidos_ii.jpg)
+![óbidos](https://diffraction.pt/blog/images/photos/07/obidos_ii.jpg)

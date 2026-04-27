@@ -5,4 +5,4 @@ Category: images
 Slug: empty-handed
 Status: published
 
-![empty-handed](/blog/images/photos/05/empty-handed.jpg)
+![empty-handed](https://diffraction.pt/blog/images/photos/05/empty-handed.jpg)

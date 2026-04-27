@@ -5,4 +5,4 @@ Category: images
 Slug: noir
 Status: published
 
-![noir](/blog/images/photos/05/noir.jpg)
+![noir](https://diffraction.pt/blog/images/photos/05/noir.jpg)

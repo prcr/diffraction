@@ -5,4 +5,4 @@ Category: images
 Slug: verticality-is-bent
 Status: published
 
-![](/blog/images/photos/05/verticality_is_bent.jpg)
+![](https://diffraction.pt/blog/images/photos/05/verticality_is_bent.jpg)

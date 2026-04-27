@@ -7,12 +7,12 @@ Status: published
 
 <div style="text-align: center">
 
-![to breathe](/blog/images/photos/06/to_breathe_i.jpg "to breathe")
+![to breathe](https://diffraction.pt/blog/images/photos/06/to_breathe_i.jpg "to breathe")
 
 </div>
 
 <div style="text-align: center">
 
-![to breathe](/blog/images/photos/06/to_breathe_ii.jpg "to breathe")
+![to breathe](https://diffraction.pt/blog/images/photos/06/to_breathe_ii.jpg "to breathe")
 
 </div>

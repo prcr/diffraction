@@ -5,4 +5,4 @@ Category: holga
 Slug: hypermarket
 Status: published
 
-![hypermarket](/blog/images/photos/05/hypermarket.jpg)
+![hypermarket](https://diffraction.pt/blog/images/photos/05/hypermarket.jpg)

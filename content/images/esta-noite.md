@@ -7,4 +7,4 @@ Status: published
 
 queria pegar neste momento como se pega numa fotografia e agrafá-lo aqui.
 
-![esta noite](/blog/images/photos/05/esta_noite.jpg)
+![esta noite](https://diffraction.pt/blog/images/photos/05/esta_noite.jpg)

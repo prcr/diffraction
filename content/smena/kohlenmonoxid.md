@@ -5,6 +5,6 @@ Category: smena
 Slug: kohlenmonoxid
 Status: published
 
-![kohlenmonoxid](/blog/images/photos/06/kohlenmonoxid.jpg)
+![kohlenmonoxid](https://diffraction.pt/blog/images/photos/06/kohlenmonoxid.jpg)
 
 [+](/blog/2005/07/03/krane/)

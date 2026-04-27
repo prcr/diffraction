@@ -5,6 +5,6 @@ Category: holga
 Slug: rarefaction
 Status: published
 
-![rarefaction](/blog/images/photos/05/rarefaction_i.jpg)
+![rarefaction](https://diffraction.pt/blog/images/photos/05/rarefaction_i.jpg)
 
-![rarefaction](/blog/images/photos/05/rarefaction_ii.jpg)
+![rarefaction](https://diffraction.pt/blog/images/photos/05/rarefaction_ii.jpg)

@@ -5,8 +5,8 @@ Category: camera phone
 Slug: the-familiar-traces
 Status: published
 
-![the familiar traces](/blog/images/photos/15/the_familiar_traces_i.png)
+![the familiar traces](https://diffraction.pt/blog/images/photos/15/the_familiar_traces_i.png)
 
-![the familiar traces](/blog/images/photos/15/the_familiar_traces_ii.png)
+![the familiar traces](https://diffraction.pt/blog/images/photos/15/the_familiar_traces_ii.png)
 
-![the familiar traces](/blog/images/photos/15/the_familiar_traces_iii.png)
+![the familiar traces](https://diffraction.pt/blog/images/photos/15/the_familiar_traces_iii.png)

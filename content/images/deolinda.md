@@ -5,9 +5,9 @@ Category: images
 Slug: deolinda
 Status: published
 
-![deolinda](/blog/images/photos/08/deolinda_i.jpg)
+![deolinda](https://diffraction.pt/blog/images/photos/08/deolinda_i.jpg)
 
-![deolinda](/blog/images/photos/08/deolinda_ii.jpg)
+![deolinda](https://diffraction.pt/blog/images/photos/08/deolinda_ii.jpg)
 
 <div data-align="center">
 

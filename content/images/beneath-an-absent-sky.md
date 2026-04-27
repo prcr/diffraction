@@ -5,4 +5,4 @@ Category: images
 Slug: beneath-an-absent-sky
 Status: published
 
-![](/blog/images/photos/04/beneath_an_absent_sky.jpg)
+![](https://diffraction.pt/blog/images/photos/04/beneath_an_absent_sky.jpg)

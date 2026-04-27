@@ -5,6 +5,6 @@ Category: images
 Slug: nobody-ever-came
 Status: published
 
-![nobody ever came](/blog/images/photos/05/nobody_ever_came_i.jpg)
+![nobody ever came](https://diffraction.pt/blog/images/photos/05/nobody_ever_came_i.jpg)
 
-![nobody ever came](/blog/images/photos/05/nobody_ever_came_ii.jpg)
+![nobody ever came](https://diffraction.pt/blog/images/photos/05/nobody_ever_came_ii.jpg)

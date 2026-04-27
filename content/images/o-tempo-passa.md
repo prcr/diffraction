@@ -5,7 +5,7 @@ Category: images, portuguese
 Slug: o-tempo-passa
 Status: published
 
-![](/blog/images/photos/04/o_tempo_passa.jpg)
+![](https://diffraction.pt/blog/images/photos/04/o_tempo_passa.jpg)
 
 o tempo passa. pura ilusão. como as sombras neste quarto. vim da rua. apetece-me ir para a rua
 

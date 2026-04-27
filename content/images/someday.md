@@ -5,4 +5,4 @@ Category: images
 Slug: someday
 Status: published
 
-![someday](/blog/images/photos/05/someday.jpg)
+![someday](https://diffraction.pt/blog/images/photos/05/someday.jpg)

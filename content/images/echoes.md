@@ -5,12 +5,12 @@ Category: images
 Slug: echoes
 Status: published
 
-![echoes](/blog/images/photos/06/echoes_i.jpg)
+![echoes](https://diffraction.pt/blog/images/photos/06/echoes_i.jpg)
 
-![echoes](/blog/images/photos/06/echoes_ii.jpg)
+![echoes](https://diffraction.pt/blog/images/photos/06/echoes_ii.jpg)
 
-![echoes](/blog/images/photos/06/echoes_iii.jpg)
+![echoes](https://diffraction.pt/blog/images/photos/06/echoes_iii.jpg)
 
-![echoes](/blog/images/photos/06/echoes_iv.jpg)
+![echoes](https://diffraction.pt/blog/images/photos/06/echoes_iv.jpg)
 
-![echoes](/blog/images/photos/06/echoes_v.jpg)
+![echoes](https://diffraction.pt/blog/images/photos/06/echoes_v.jpg)

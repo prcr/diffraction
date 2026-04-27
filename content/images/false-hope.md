@@ -5,6 +5,6 @@ Category: images
 Slug: false-hope
 Status: published
 
-![false hope](/blog/images/photos/07/false_hope_i.jpg)
+![false hope](https://diffraction.pt/blog/images/photos/07/false_hope_i.jpg)
 
-![false hope](/blog/images/photos/07/false_hope_ii.jpg)
+![false hope](https://diffraction.pt/blog/images/photos/07/false_hope_ii.jpg)

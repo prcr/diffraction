@@ -5,4 +5,4 @@ Category: holga
 Slug: charcoal
 Status: published
 
-![charcoal](/blog/images/photos/08/charcoal.jpg)
+![charcoal](https://diffraction.pt/blog/images/photos/08/charcoal.jpg)

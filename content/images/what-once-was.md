@@ -5,4 +5,4 @@ Category: images
 Slug: what-once-was
 Status: published
 
-![what once was](/blog/images/photos/06/what_once_was.jpg)
+![what once was](https://diffraction.pt/blog/images/photos/06/what_once_was.jpg)

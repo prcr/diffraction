@@ -5,4 +5,4 @@ Category: images
 Slug: exit-11
 Status: published
 
-![](/blog/images/photos/05/exit_11.jpg)
+![](https://diffraction.pt/blog/images/photos/05/exit_11.jpg)

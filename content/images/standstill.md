@@ -5,6 +5,6 @@ Category: images
 Slug: standstill
 Status: published
 
-![standstill](/blog/images/photos/13/standstill_i.jpg)
+![standstill](https://diffraction.pt/blog/images/photos/13/standstill_i.jpg)
 
-![standstill](/blog/images/photos/13/standstill_ii.jpg)
+![standstill](https://diffraction.pt/blog/images/photos/13/standstill_ii.jpg)

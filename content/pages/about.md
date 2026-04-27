@@ -9,7 +9,7 @@ hi\! my name is paulo. i make photos or write when i feel like it.
   
   
 
-![paulo ribeiro](/blog/images/photos/about.jpg)
+![paulo ribeiro](https://diffraction.pt/blog/images/photos/about.jpg)
 
   
   

@@ -5,4 +5,4 @@ Category: images
 Slug: unclehead
 Status: published
 
-![unclehead](/blog/images/photos/08/unclehead.jpg)
+![unclehead](https://diffraction.pt/blog/images/photos/08/unclehead.jpg)

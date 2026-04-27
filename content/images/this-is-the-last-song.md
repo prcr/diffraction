@@ -5,4 +5,4 @@ Category: images
 Slug: this-is-the-last-song
 Status: published
 
-![this is the last song](/blog/images/photos/05/this_is_the_last_song.jpg)
+![this is the last song](https://diffraction.pt/blog/images/photos/05/this_is_the_last_song.jpg)

@@ -5,4 +5,4 @@ Category: images
 Slug: a-sofa
 Status: published
 
-![](/blog/images/photos/05/a_sofa.jpg)
+![](https://diffraction.pt/blog/images/photos/05/a_sofa.jpg)

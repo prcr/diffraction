@@ -5,4 +5,4 @@ Category: holga
 Slug: the-wait
 Status: published
 
-![the wait.](/blog/images/photos/09/the_wait..jpg)
+![the wait.](https://diffraction.pt/blog/images/photos/09/the_wait..jpg)

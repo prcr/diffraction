@@ -5,4 +5,4 @@ Category: images
 Slug: dissolve
 Status: published
 
-![dissolve](/blog/images/photos/09/dissolve.jpg)
+![dissolve](https://diffraction.pt/blog/images/photos/09/dissolve.jpg)

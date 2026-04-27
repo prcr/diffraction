@@ -5,9 +5,9 @@ Category: images, portuguese
 Slug: fomos-os-ultimos
 Status: published
 
-![fomos os últimos a abandonar a praia.](/blog/images/photos/06/fomos_os_ultimos_i.jpg "fomos os últimos a abandonar a praia.")
+![fomos os últimos a abandonar a praia.](https://diffraction.pt/blog/images/photos/06/fomos_os_ultimos_i.jpg "fomos os últimos a abandonar a praia.")
 
-![fomos os últimos a abandonar a praia.](/blog/images/photos/06/fomos_os_ultimos_ii.jpg "fomos os últimos a abandonar a praia.")
+![fomos os últimos a abandonar a praia.](https://diffraction.pt/blog/images/photos/06/fomos_os_ultimos_ii.jpg "fomos os últimos a abandonar a praia.")
 
 a luz estranha da lua projectava sombras sobre a areia.
 

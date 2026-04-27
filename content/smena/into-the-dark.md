@@ -5,4 +5,4 @@ Category: smena
 Slug: into-the-dark
 Status: published
 
-![into the dark](/blog/images/photos/11/into_the_dark.jpg)
+![into the dark](https://diffraction.pt/blog/images/photos/11/into_the_dark.jpg)

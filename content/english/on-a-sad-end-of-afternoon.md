@@ -15,6 +15,6 @@ the space-time continuum was bent between our fingers
 
 <div data-align="center">
 
-![on a sad end of afternoon](/blog/images/photos/05/on_a_sad_end_of_afternoon.jpg)
+![on a sad end of afternoon](https://diffraction.pt/blog/images/photos/05/on_a_sad_end_of_afternoon.jpg)
 
 </div>

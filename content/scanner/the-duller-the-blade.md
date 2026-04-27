@@ -5,4 +5,4 @@ Category: scanner
 Slug: the-duller-the-blade
 Status: published
 
-![the duller the blade...](/blog/images/photos/05/the_duller_the_blade.jpg)
+![the duller the blade...](https://diffraction.pt/blog/images/photos/05/the_duller_the_blade.jpg)

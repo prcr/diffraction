@@ -11,4 +11,4 @@ audio track: *"leaving hope"*, nine inch nails
    
 **download**
 
-  - [mpeg1](/blog/images/videos/05/nowhere_to_go.mpg) (8.1 mb)
+  - [mpeg1](https://diffraction.pt/blog/images/videos/05/nowhere_to_go.mpg) (8.1 mb)

@@ -5,10 +5,10 @@ Category: images
 Slug: lisboa-downtown
 Status: published
 
-![lisboa downtown](/blog/images/photos/08/lisboa_downtown_i.jpg)
+![lisboa downtown](https://diffraction.pt/blog/images/photos/08/lisboa_downtown_i.jpg)
 
-![lisboa downtown](/blog/images/photos/08/lisboa_downtown_ii.jpg)
+![lisboa downtown](https://diffraction.pt/blog/images/photos/08/lisboa_downtown_ii.jpg)
 
-![lisboa downtown](/blog/images/photos/08/lisboa_downtown_iii.jpg)
+![lisboa downtown](https://diffraction.pt/blog/images/photos/08/lisboa_downtown_iii.jpg)
 
-![lisboa downtown](/blog/images/photos/08/lisboa_downtown_iv.jpg)
+![lisboa downtown](https://diffraction.pt/blog/images/photos/08/lisboa_downtown_iv.jpg)

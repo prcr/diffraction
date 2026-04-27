@@ -5,4 +5,4 @@ Category: images
 Slug: down-in-a-hole
 Status: published
 
-![down in a hole](/blog/images/photos/05/down_in_a_hole.jpg)
+![down in a hole](https://diffraction.pt/blog/images/photos/05/down_in_a_hole.jpg)

@@ -5,10 +5,10 @@ Category: images
 Slug: on-the-last-days-of-autumn
 Status: published
 
-![on the last days of autumn](/blog/images/photos/05/on_the_last_days_of_autumn_i.jpg)
+![on the last days of autumn](https://diffraction.pt/blog/images/photos/05/on_the_last_days_of_autumn_i.jpg)
 
-![on the last days of autumn](/blog/images/photos/05/on_the_last_days_of_autumn_ii.jpg)
+![on the last days of autumn](https://diffraction.pt/blog/images/photos/05/on_the_last_days_of_autumn_ii.jpg)
 
-![on the last days of autumn](/blog/images/photos/05/on_the_last_days_of_autumn_iii.jpg)
+![on the last days of autumn](https://diffraction.pt/blog/images/photos/05/on_the_last_days_of_autumn_iii.jpg)
 
-![on the last days of autumn](/blog/images/photos/05/on_the_last_days_of_autumn_iv.jpg)
+![on the last days of autumn](https://diffraction.pt/blog/images/photos/05/on_the_last_days_of_autumn_iv.jpg)

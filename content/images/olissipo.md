@@ -5,4 +5,4 @@ Category: images
 Slug: olissipo
 Status: published
 
-![olissipo](/blog/images/photos/06/olissipo.jpg)
+![olissipo](https://diffraction.pt/blog/images/photos/06/olissipo.jpg)

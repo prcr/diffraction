@@ -5,8 +5,8 @@ Category: images
 Slug: aqueduto-dos-pegoes
 Status: published
 
-![aqueduto dos pegões](/blog/images/photos/12/aqueduto_dos_pegoes_i.jpg)
+![aqueduto dos pegões](https://diffraction.pt/blog/images/photos/12/aqueduto_dos_pegoes_i.jpg)
 
-![aqueduto dos pegões](/blog/images/photos/12/aqueduto_dos_pegoes_ii.jpg)
+![aqueduto dos pegões](https://diffraction.pt/blog/images/photos/12/aqueduto_dos_pegoes_ii.jpg)
 
-![aqueduto dos pegões](/blog/images/photos/12/aqueduto_dos_pegoes_iii.jpg)
+![aqueduto dos pegões](https://diffraction.pt/blog/images/photos/12/aqueduto_dos_pegoes_iii.jpg)

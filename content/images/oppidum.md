@@ -5,8 +5,8 @@ Category: images
 Slug: oppidum
 Status: published
 
-![oppidum](/blog/images/photos/08/oppidum_i.jpg)
+![oppidum](https://diffraction.pt/blog/images/photos/08/oppidum_i.jpg)
 
-![oppidum](/blog/images/photos/08/oppidum_ii.jpg)
+![oppidum](https://diffraction.pt/blog/images/photos/08/oppidum_ii.jpg)
 
-![oppidum](/blog/images/photos/08/oppidum_iii.jpg)
+![oppidum](https://diffraction.pt/blog/images/photos/08/oppidum_iii.jpg)

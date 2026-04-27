@@ -5,4 +5,4 @@ Category: images
 Slug: panopticon
 Status: published
 
-![panopticon](/blog/images/photos/09/panopticon.jpg)
+![panopticon](https://diffraction.pt/blog/images/photos/09/panopticon.jpg)

@@ -5,6 +5,6 @@ Category: images
 Slug: curving-rays-of-once-straight-light
 Status: published
 
-![curving rays of once straight light](/blog/images/photos/18/curving_rays_of_once_straight_light_i.jpg)
+![curving rays of once straight light](https://diffraction.pt/blog/images/photos/18/curving_rays_of_once_straight_light_i.jpg)
 
-![curving rays of once straight light](/blog/images/photos/18/curving_rays_of_once_straight_light_ii.jpg)
+![curving rays of once straight light](https://diffraction.pt/blog/images/photos/18/curving_rays_of_once_straight_light_ii.jpg)

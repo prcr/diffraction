@@ -5,7 +5,7 @@ Category: images, portuguese
 Slug: primeira-pessoa-do-plural
 Status: published
 
-![primeira pessoa do plural](/blog/images/photos/06/primeira_pessoa_do_plural.jpg)
+![primeira pessoa do plural](https://diffraction.pt/blog/images/photos/06/primeira_pessoa_do_plural.jpg)
 
 <div data-align="center">
 

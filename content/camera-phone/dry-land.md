@@ -5,4 +5,4 @@ Category: camera phone
 Slug: dry-land
 Status: published
 
-![dry land](/blog/images/photos/15/dry_land.jpg)
+![dry land](https://diffraction.pt/blog/images/photos/15/dry_land.jpg)

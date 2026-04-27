@@ -33,9 +33,9 @@ pergunta-me ainda de que mais gosto nela para além *disto* (escreve-o numa pág
    
    
    
-[![há sítios que não me canso de visitar.](/blog/images/photos/05/ha_sitios_que_nao_me_canso_de_visitar.jpg)](/blog/images/photos/05/panoramas/ha_sitios_que_nao_me_canso_de_visitar.html)
+[![há sítios que não me canso de visitar.](https://diffraction.pt/blog/images/photos/05/ha_sitios_que_nao_me_canso_de_visitar.jpg)](https://diffraction.pt/blog/images/photos/05/panoramas/ha_sitios_que_nao_me_canso_de_visitar.html)
 
-[full view +](/blog/images/photos/05/panoramas/ha_sitios_que_nao_me_canso_de_visitar.html)  
+[full view +](https://diffraction.pt/blog/images/photos/05/panoramas/ha_sitios_que_nao_me_canso_de_visitar.html)  
    
    
    

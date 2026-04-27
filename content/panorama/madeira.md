@@ -5,6 +5,6 @@ Category: panorama
 Slug: madeira
 Status: published
 
-[![madeira](/blog/images/photos/13/madeira.jpg)](/blog/images/photos/13/panoramas/madeira.html)
+[![madeira](https://diffraction.pt/blog/images/photos/13/madeira.jpg)](https://diffraction.pt/blog/images/photos/13/panoramas/madeira.html)
 
-[full view +](/blog/images/photos/13/panoramas/madeira.html)
+[full view +](https://diffraction.pt/blog/images/photos/13/panoramas/madeira.html)

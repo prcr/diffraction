@@ -5,4 +5,4 @@ Category: images
 Slug: behind-the-orange-curtains
 Status: published
 
-![](/blog/images/photos/05/behind_the_orange_curtains.jpg)
+![](https://diffraction.pt/blog/images/photos/05/behind_the_orange_curtains.jpg)

@@ -5,4 +5,4 @@ Category: images
 Slug: departure
 Status: published
 
-![departure](/blog/images/photos/05/departure.jpg)
+![departure](https://diffraction.pt/blog/images/photos/05/departure.jpg)

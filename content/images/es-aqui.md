@@ -5,6 +5,6 @@ Category: images
 Slug: es-aqui
 Status: published
 
-![és aqui](/blog/images/photos/15/es_aqui_i.jpg)
+![és aqui](https://diffraction.pt/blog/images/photos/15/es_aqui_i.jpg)
 
-![és aqui](/blog/images/photos/15/es_aqui_ii.jpg)
+![és aqui](https://diffraction.pt/blog/images/photos/15/es_aqui_ii.jpg)

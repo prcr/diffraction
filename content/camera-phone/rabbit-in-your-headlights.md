@@ -5,4 +5,4 @@ Category: camera phone
 Slug: rabbit-in-your-headlights
 Status: published
 
-![rabbit in your headlights](/blog/images/photos/16/rabbit_in_your_headlights.jpg)
+![rabbit in your headlights](https://diffraction.pt/blog/images/photos/16/rabbit_in_your_headlights.jpg)

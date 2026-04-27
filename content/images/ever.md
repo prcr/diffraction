@@ -5,4 +5,4 @@ Category: images
 Slug: ever
 Status: published
 
-![ever](/blog/images/photos/05/ever.jpg)
+![ever](https://diffraction.pt/blog/images/photos/05/ever.jpg)

@@ -5,6 +5,6 @@ Category: images
 Slug: open
 Status: published
 
-![open](/blog/images/photos/07/open_i.jpg)
+![open](https://diffraction.pt/blog/images/photos/07/open_i.jpg)
 
-![open](/blog/images/photos/07/open_ii.jpg)
+![open](https://diffraction.pt/blog/images/photos/07/open_ii.jpg)

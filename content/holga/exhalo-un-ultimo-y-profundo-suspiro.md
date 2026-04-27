@@ -5,7 +5,7 @@ Category: holga
 Slug: exhalo-un-ultimo-y-profundo-suspiro
 Status: published
 
-![exhalo un último y profundo suspiro antes del ocaso](/blog/images/photos/05/exhalo_un_ultimo_y_profundo_suspiro.jpg)
+![exhalo un último y profundo suspiro antes del ocaso](https://diffraction.pt/blog/images/photos/05/exhalo_un_ultimo_y_profundo_suspiro.jpg)
 
 <div data-align="right">
 

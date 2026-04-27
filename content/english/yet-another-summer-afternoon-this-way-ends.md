@@ -5,7 +5,7 @@ Category: english, images
 Slug: yet-another-summer-afternoon-this-way-ends
 Status: published
 
-![](/blog/images/photos/04/yet_another_summer_afternoon.jpg)
+![](https://diffraction.pt/blog/images/photos/04/yet_another_summer_afternoon.jpg)
 
 ...without  
 you...

@@ -11,4 +11,4 @@ audio track: *"foetus"*, efterklang
    
 **download**
 
-  - [mpeg1](/blog/images/videos/05/summer_afternoon_ii.mpg) (6.7 mb)
+  - [mpeg1](https://diffraction.pt/blog/images/videos/05/summer_afternoon_ii.mpg) (6.7 mb)

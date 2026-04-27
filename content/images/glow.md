@@ -5,4 +5,4 @@ Category: images
 Slug: glow
 Status: published
 
-![glow](/blog/images/photos/05/glow.jpg)
+![glow](https://diffraction.pt/blog/images/photos/05/glow.jpg)

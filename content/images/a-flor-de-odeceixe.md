@@ -5,4 +5,4 @@ Category: images
 Slug: a-flor-de-odeceixe
 Status: published
 
-![a flor de odeceixe](/blog/images/photos/08/a_flor_de_odeceixe.jpg)
+![a flor de odeceixe](https://diffraction.pt/blog/images/photos/08/a_flor_de_odeceixe.jpg)

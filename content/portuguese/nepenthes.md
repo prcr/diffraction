@@ -5,7 +5,7 @@ Category: portuguese, scanner
 Slug: nepenthes
 Status: published
 
-![escrever é poder.](/blog/images/photos/05/nepenthes_i.png)
+![escrever é poder.](https://diffraction.pt/blog/images/photos/05/nepenthes_i.png)
 
 <div data-align="center">
 
@@ -15,7 +15,7 @@ Status: published
 
    
    
-![infinito. eterno.](/blog/images/photos/05/nepenthes_ii.png)
+![infinito. eterno.](https://diffraction.pt/blog/images/photos/05/nepenthes_ii.png)
 
 <div data-align="center">
 

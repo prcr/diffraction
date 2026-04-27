@@ -5,6 +5,6 @@ Category: images
 Slug: my-home-is-31-million-light-years-away
 Status: published
 
-![my home is 31 million light years away](/blog/images/photos/05/my_home_is_31_million_light_years_away_i.jpg)
+![my home is 31 million light years away](https://diffraction.pt/blog/images/photos/05/my_home_is_31_million_light_years_away_i.jpg)
 
-![my home is 31 million light years away](/blog/images/photos/05/my_home_is_31_million_light_years_away_ii.jpg)
+![my home is 31 million light years away](https://diffraction.pt/blog/images/photos/05/my_home_is_31_million_light_years_away_ii.jpg)

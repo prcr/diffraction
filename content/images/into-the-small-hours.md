@@ -5,8 +5,8 @@ Category: images
 Slug: into-the-small-hours
 Status: published
 
-![into the small hours](/blog/images/photos/13/into_the_small_hours_i.jpg)
+![into the small hours](https://diffraction.pt/blog/images/photos/13/into_the_small_hours_i.jpg)
 
-![into the small hours](/blog/images/photos/13/into_the_small_hours_ii.jpg)
+![into the small hours](https://diffraction.pt/blog/images/photos/13/into_the_small_hours_ii.jpg)
 
 [+](/blog/2006/03/acordar-2/)

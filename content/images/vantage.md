@@ -5,4 +5,4 @@ Category: images
 Slug: vantage
 Status: published
 
-![vantage](/blog/images/photos/05/vantage.jpg)
+![vantage](https://diffraction.pt/blog/images/photos/05/vantage.jpg)

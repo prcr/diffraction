@@ -5,4 +5,4 @@ Category: images
 Slug: when-there-is-no-echo
 Status: published
 
-![when there is no echo](/blog/images/photos/08/when_there_is_no_echo.jpg)
+![when there is no echo](https://diffraction.pt/blog/images/photos/08/when_there_is_no_echo.jpg)

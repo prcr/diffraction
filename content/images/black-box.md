@@ -5,4 +5,4 @@ Category: images
 Slug: black-box
 Status: published
 
-![black box](/blog/images/photos/07/black_box.jpg)
+![black box](https://diffraction.pt/blog/images/photos/07/black_box.jpg)

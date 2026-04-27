@@ -5,4 +5,4 @@ Category: images
 Slug: nightscape
 Status: published
 
-![](/blog/images/photos/04/nightscape.jpg)
+![](https://diffraction.pt/blog/images/photos/04/nightscape.jpg)

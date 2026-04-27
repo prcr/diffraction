@@ -5,9 +5,9 @@ Category: images
 Slug: moby
 Status: published
 
-![moby](/blog/images/photos/09/moby_i.jpg)
+![moby](https://diffraction.pt/blog/images/photos/09/moby_i.jpg)
 
-![moby](/blog/images/photos/09/moby_ii.jpg)
+![moby](https://diffraction.pt/blog/images/photos/09/moby_ii.jpg)
 
 <div data-align="center">
 

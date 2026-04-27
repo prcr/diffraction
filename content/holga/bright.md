@@ -5,4 +5,4 @@ Category: holga
 Slug: bright
 Status: published
 
-![bright](/blog/images/photos/08/bright.jpg)
+![bright](https://diffraction.pt/blog/images/photos/08/bright.jpg)

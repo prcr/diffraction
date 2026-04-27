@@ -7,7 +7,7 @@ Status: published
 
 alone. secluded.
 
-![wandering thoughts](/blog/images/photos/05/wandering_thoughts.jpg)
+![wandering thoughts](https://diffraction.pt/blog/images/photos/05/wandering_thoughts.jpg)
 
 (another sip of tea.)  
    

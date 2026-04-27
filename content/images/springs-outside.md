@@ -5,4 +5,4 @@ Category: images
 Slug: springs-outside
 Status: published
 
-![spring's outside](/blog/images/photos/05/spring-s_outside.jpg)
+![spring's outside](https://diffraction.pt/blog/images/photos/05/spring-s_outside.jpg)

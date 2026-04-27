@@ -5,4 +5,4 @@ Category: images
 Slug: point-of-no-return
 Status: published
 
-![point of no return](/blog/images/photos/06/point_of_no_return.jpg)
+![point of no return](https://diffraction.pt/blog/images/photos/06/point_of_no_return.jpg)

@@ -5,10 +5,10 @@ Category: images
 Slug: fault
 Status: published
 
-![fault](/blog/images/photos/05/fault_i.jpg)
+![fault](https://diffraction.pt/blog/images/photos/05/fault_i.jpg)
 
 and
 
-![fracture](/blog/images/photos/05/fault_ii.jpg)
+![fracture](https://diffraction.pt/blog/images/photos/05/fault_ii.jpg)
 
 fracture

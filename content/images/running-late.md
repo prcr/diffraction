@@ -5,4 +5,4 @@ Category: images
 Slug: running-late
 Status: published
 
-![running late](/blog/images/photos/18/running_late.jpg)
+![running late](https://diffraction.pt/blog/images/photos/18/running_late.jpg)

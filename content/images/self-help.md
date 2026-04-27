@@ -5,4 +5,4 @@ Category: images
 Slug: self-help
 Status: published
 
-![self-help](/blog/images/photos/05/self-help.jpg)
+![self-help](https://diffraction.pt/blog/images/photos/05/self-help.jpg)

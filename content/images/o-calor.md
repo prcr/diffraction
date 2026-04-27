@@ -10,7 +10,7 @@ neva sobre lisboa enquanto a nossa pele se funde no silêncio aconchegante do ed
 .  
    
    
-![o calor.](/blog/images/photos/06/o_calor.jpg)  
+![o calor.](https://diffraction.pt/blog/images/photos/06/o_calor.jpg)  
    
    
 tudo isto me parece agora distante como um sonho.  

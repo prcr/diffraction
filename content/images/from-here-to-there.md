@@ -5,4 +5,4 @@ Category: images
 Slug: from-here-to-there
 Status: published
 
-![from here to there](/blog/images/photos/06/from_here_to_there.jpg)
+![from here to there](https://diffraction.pt/blog/images/photos/06/from_here_to_there.jpg)

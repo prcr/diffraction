@@ -5,6 +5,6 @@ Category: panorama
 Slug: guimaraes
 Status: published
 
-[![guimaraes](/blog/images/photos/07/guimaraes.jpg)](/blog/images/photos/07/panoramas/guimaraes.html)
+[![guimaraes](https://diffraction.pt/blog/images/photos/07/guimaraes.jpg)](https://diffraction.pt/blog/images/photos/07/panoramas/guimaraes.html)
 
-[full view +](/blog/images/photos/07/panoramas/guimaraes.html)
+[full view +](https://diffraction.pt/blog/images/photos/07/panoramas/guimaraes.html)

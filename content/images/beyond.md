@@ -5,4 +5,4 @@ Category: images
 Slug: beyond
 Status: published
 
-![beyond](/blog/images/photos/05/beyond.jpg)
+![beyond](https://diffraction.pt/blog/images/photos/05/beyond.jpg)

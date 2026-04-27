@@ -5,4 +5,4 @@ Category: images
 Slug: a-gas-station
 Status: published
 
-![](/blog/images/photos/04/a_gas_station.jpg)
+![](https://diffraction.pt/blog/images/photos/04/a_gas_station.jpg)

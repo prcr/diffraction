@@ -7,6 +7,6 @@ Status: published
 
 *para o pedro.*
 
-![a cappella](/blog/images/photos/06/a_cappella_i.jpg)
+![a cappella](https://diffraction.pt/blog/images/photos/06/a_cappella_i.jpg)
 
-![a cappella](/blog/images/photos/06/a_cappella_ii.jpg)
+![a cappella](https://diffraction.pt/blog/images/photos/06/a_cappella_ii.jpg)

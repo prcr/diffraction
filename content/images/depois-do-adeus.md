@@ -5,4 +5,4 @@ Category: images
 Slug: depois-do-adeus
 Status: published
 
-![depois do adeus](/blog/images/photos/06/depois_do_adeus.jpg)
+![depois do adeus](https://diffraction.pt/blog/images/photos/06/depois_do_adeus.jpg)

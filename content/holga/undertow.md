@@ -5,13 +5,13 @@ Category: holga
 Slug: undertow
 Status: published
 
-![undertow](/blog/images/photos/06/undertow_i.jpg)
+![undertow](https://diffraction.pt/blog/images/photos/06/undertow_i.jpg)
 
-![undertow](/blog/images/photos/06/undertow_ii.jpg)
+![undertow](https://diffraction.pt/blog/images/photos/06/undertow_ii.jpg)
 
-![undertow](/blog/images/photos/06/undertow_iii.jpg)
+![undertow](https://diffraction.pt/blog/images/photos/06/undertow_iii.jpg)
 
-![undertow](/blog/images/photos/06/undertow_iv.jpg)  
+![undertow](https://diffraction.pt/blog/images/photos/06/undertow_iv.jpg)  
    
    
 [+](/blog/2006/01/01/gone-out-to-sea/)

@@ -5,4 +5,4 @@ Category: images
 Slug: squared-ellipse
 Status: published
 
-![squared ellipse](/blog/images/photos/05/squared_ellipse.jpg)
+![squared ellipse](https://diffraction.pt/blog/images/photos/05/squared_ellipse.jpg)

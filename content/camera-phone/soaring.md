@@ -5,4 +5,4 @@ Category: camera phone
 Slug: soaring
 Status: published
 
-![soaring](/blog/images/photos/12/soaring.jpg)
+![soaring](https://diffraction.pt/blog/images/photos/12/soaring.jpg)

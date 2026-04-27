@@ -5,4 +5,4 @@ Category: images
 Slug: vitamin-c
 Status: published
 
-![](/blog/images/photos/05/vitamin_c.jpg)
+![](https://diffraction.pt/blog/images/photos/05/vitamin_c.jpg)

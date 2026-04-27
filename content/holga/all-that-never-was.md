@@ -5,4 +5,4 @@ Category: holga
 Slug: all-that-never-was
 Status: published
 
-![all that never was](/blog/images/photos/05/all_that_never_was.jpg)
+![all that never was](https://diffraction.pt/blog/images/photos/05/all_that_never_was.jpg)

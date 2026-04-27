@@ -5,4 +5,4 @@ Category: smena
 Slug: fleeting
 Status: published
 
-![f l e e t i n g . . .](/blog/images/photos/06/fleeting.jpg)
+![f l e e t i n g . . .](https://diffraction.pt/blog/images/photos/06/fleeting.jpg)

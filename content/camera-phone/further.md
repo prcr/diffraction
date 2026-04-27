@@ -5,4 +5,4 @@ Category: camera phone
 Slug: further
 Status: published
 
-![further](/blog/images/photos/12/further.jpg)
+![further](https://diffraction.pt/blog/images/photos/12/further.jpg)

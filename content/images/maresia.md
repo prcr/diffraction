@@ -5,8 +5,8 @@ Category: images
 Slug: maresia
 Status: published
 
-![maresia](/blog/images/photos/08/maresia_i.jpg)
+![maresia](https://diffraction.pt/blog/images/photos/08/maresia_i.jpg)
 
-![maresia](/blog/images/photos/08/maresia_ii.jpg)
+![maresia](https://diffraction.pt/blog/images/photos/08/maresia_ii.jpg)
 
-![maresia](/blog/images/photos/08/maresia_iii.jpg)
+![maresia](https://diffraction.pt/blog/images/photos/08/maresia_iii.jpg)

@@ -5,6 +5,6 @@ Category: camera phone
 Slug: elsewhere
 Status: published
 
-![elsewhere](/blog/images/photos/15/elsewhere_i.jpg)
+![elsewhere](https://diffraction.pt/blog/images/photos/15/elsewhere_i.jpg)
 
-![elsewhere](/blog/images/photos/15/elsewhere_ii.jpg)
+![elsewhere](https://diffraction.pt/blog/images/photos/15/elsewhere_ii.jpg)

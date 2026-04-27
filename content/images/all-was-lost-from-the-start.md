@@ -5,4 +5,4 @@ Category: images
 Slug: all-was-lost-from-the-start
 Status: published
 
-![all was lost from the start](/blog/images/photos/05/all_was_lost_from_the_start.jpg)
+![all was lost from the start](https://diffraction.pt/blog/images/photos/05/all_was_lost_from_the_start.jpg)
