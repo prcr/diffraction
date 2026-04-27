@@ -2,7 +2,7 @@ import attila
 
 AUTHOR = 'paulo ribeiro'
 SITENAME = 'd i f f r a c t i o n'
-SITEURL = "https://diffraction.pt/blog"
+SITEURL = ""
 
 PATH = "content"
 
@@ -31,5 +31,4 @@ SOCIAL = (
 
 DEFAULT_PAGINATION = False
 
-# Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
+RELATIVE_URLS = True
