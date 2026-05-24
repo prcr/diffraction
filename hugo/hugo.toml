@@ -1,0 +1,4 @@
+baseURL = 'https://diffraction.pt/blog/'
+locale = 'en-us'
+title = 'd i f f r a c t i o n'
+theme = 'pico-base'
